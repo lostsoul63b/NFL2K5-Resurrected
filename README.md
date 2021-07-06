@@ -15,6 +15,5 @@ If you find additional issues, please join our ![Discord](https://user-images.gi
 
 ## Current Release
 | Platform | Version | Release Date  | Notes |
-| :-------------: | ------------- | ------------- | ------------- |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| :-------------: | :-------------: | :-------------: | ------------- |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1  | 7/20/2021  | Content Cell  |
