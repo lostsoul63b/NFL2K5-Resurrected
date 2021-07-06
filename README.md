@@ -17,3 +17,9 @@ If you find additional issues, please report them in our ![Discord](https://user
 | Platform | Version | Release Date  | Notes |
 | :-------------: | :-------------: | :-------------: | ------------- |
 | ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1  | 7/20/2021  | Content Cell  |
+
+## MOD Team credits
+* LostsouL, xflamexofxhopex
+* Xevan, BAD_AL
+* Orleans02, Rick
+* MahomesMagic15, CujoMatty
