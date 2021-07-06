@@ -12,3 +12,9 @@ If you find additional issues, please join our ![Discord](https://user-images.gi
 * Please reference the included installation document.
 * Each release will include all prior versions of this mod.
 * You will not need to delete or remove earlier versions.
+
+## Current Release
+| Platform | Version | Release Date  | Notes |
+| :-------------: | ------------- | ------------- | ------------- |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
