@@ -2,4 +2,6 @@
 * **These instructions apply to the first time setup**
 
 ## Download Instructions:
-
+* Download the mod package
+* Extract the zip contents (SSD preferred)
+* Open the included ***Getting_started_with_2K5_Resurrected.pdf*** guide and follow the setup instructions
