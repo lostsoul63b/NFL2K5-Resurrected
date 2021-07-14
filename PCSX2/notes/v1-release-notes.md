@@ -7,7 +7,7 @@
 * Updated clear weather stadium field, endzones, scoreboard art, and wall art for all teams
 * Updated in-game scoreboard
 * Updated Chris Berman
-* Updated sports desk (overhauled the look)
+* Updated sports desk
 * Updated presentation branding
 * Updated team selection screen for all teams
 * Updated main screen logo
