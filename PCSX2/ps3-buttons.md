@@ -2,7 +2,8 @@
 * **These instructions apply to the first time setup**
 
 ## Download Instructions:
-* Download the mod package
+* Download the mod package ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
+ [ESPN NFL 2K5 Resurrected PS Pkg](https://drive.google.com/file/d/1ZMlv2WWzi9xuWeO6A5Ky48MdFc-n3nhE/view?usp=sharing)
 * Extract the zip contents (SSD preferred)
 * Open the included ***Getting_started_with_2K5_Resurrected.pdf*** guide and follow the setup instructions
 
