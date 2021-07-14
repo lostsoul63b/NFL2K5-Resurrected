@@ -4,8 +4,13 @@
 ### Team Updates:
 
 * Updated clear weather helmets, jersey, pants, socks, and gloves for all teams
-* Updated clear weather stadium textures (field, scoreboard art, wall art, etc.) for all teams
+* Updated clear weather stadium field, endzones, scoreboard art, and wall art for all teams
 * Updated in-game scoreboard
-* Updated Chris Berman and the sports desk
+* Updated Chris Berman
+* Updated sports desk (overhauled the look)
+* Updated presentation branding
 * Updated team selection screen for all teams
-
+* Updated main screen logo
+* Updated 
+* Updated PS controller buttons
+* Updated Xbox controller buttons 
