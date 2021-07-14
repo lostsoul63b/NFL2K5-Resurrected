@@ -28,5 +28,10 @@ If you find additional issues or have questions please join our ![Discord](https
 | :-------------: | :-------------: |
 | ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1  |
 
+## Rosters
+The mod includes the 2021 Week 17 Ros + Fran files that are pre-loaded on the memory card. Special thanks to BAD_AL and his team for making great rosters year after year over on the Operation Sports forums.
+
+[The latest roster updates can be found here.](https://forums.operationsports.com/forums/espn-nfl-2k5-rosters/)
+
 ## MOD Team credits
 * || LostsouL ~ xflamexofxhopex ~ Xevan ~ BAD_AL ~ Orleans02 ~ Rick ||
