@@ -1,4 +1,11 @@
-## ESPN NFL 2K5 Resurrected - Version 1 Release Notes
+## ![NFL2K5-Resurrected-Logo_Horiz5](https://user-images.githubusercontent.com/69597675/125652934-6b21a6c3-e700-4709-8e10-01deb62d37f7.png)
 
-## v1 (Released 7/20/2021)
-Team Updates:
+## Version 1 Release Notes (Released 7/20/2021)
+### Team Updates:
+
+* Updated clear weather helmets, jersey, pants, socks, and gloves for all teams
+* Updated clear weather stadium textures (field, scoreboard art, wall art, etc.) for all teams
+* Updated in-game scoreboard
+* Updated Chris Berman and the sports desk
+* Updated team selection screen for all teams
+
