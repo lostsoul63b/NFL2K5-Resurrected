@@ -3,7 +3,7 @@
 
 ## Download Instructions: ![xbox-small](https://user-images.githubusercontent.com/69597675/125670999-d7da762d-c1eb-4336-a6ee-6292dc2da38d.png) Xbox Buttons
 * Download the mod package ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
- [NFL 2K5 Resurrected Xbox Pkg](https://drive.google.com/file/d/1ZMlv2WWzi9xuWeO6A5Ky48MdFc-n3nhE/view?usp=sharing)
+ [NFL 2K5 Resurrected Xbox Pkg](https://drive.google.com/file/d/1A5El3cFisgx7VH9cXFMRflcUYw4Ar8sH/view?usp=sharing)
 * Extract the zip contents (SSD preferred)
 * Open the included ***Getting_started_with_2K5_Resurrected.pdf*** guide and follow the setup instructions
 
