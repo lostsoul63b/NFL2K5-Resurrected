@@ -11,9 +11,9 @@ Enjoy ESPN NFL 2K5 in a completely new way with updated jerseys, helmets, pants,
 
 If you find additional issues or have questions please join our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb)
 # ESPN NFL 2K5 Resurrected - Installation Guid
-* Please reference the included installation document.
-* Each release will include all prior versions of this mod.
-* You will not need to delete or remove earlier versions.
+* Please reference the included install guide
+* Each release will include all prior versions of this mod
+* You will not need to delete or remove earlier versions
 
 ## Current Release
 | Platform | Version | Release Date  | Release Notes |
