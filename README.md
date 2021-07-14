@@ -18,7 +18,7 @@ If you find additional issues or have questions please join our ![Discord](https
 ## Current Release
 | Platform | Version | Release Date  | Release Notes |
 | :-------------: | :-------------: | :-------------: | ------------- |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1  | 7/20/2021  | Content Cell  |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1  | 7/20/2021  | v1 Notes  |
 
 ## MOD Team credits
 * || LostsouL ~ xflamexofxhopex ~ Xevan ~ BAD_AL ~ Orleans02 ~ Rick ||
