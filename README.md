@@ -9,14 +9,14 @@ Enjoy ESPN NFL 2K5 in a completely new way with updated jerseys, helmets, pants,
 ## Known Mod Issues:
 * **Missing snow + rain textures**: The initial release only includes clear weather textures. The mod team will be adding the additional weather textures in a future release update.
 
-If you find additional issues, please report them in our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb)
+If you find additional issues or have questions please join our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb)
 # ESPN NFL 2K5 Resurrected - Installation Guid
 * Please reference the included installation document.
 * Each release will include all prior versions of this mod.
 * You will not need to delete or remove earlier versions.
 
 ## Current Release
-| Platform | Version | Release Date  | Notes |
+| Platform | Version | Release Date  | Release Notes |
 | :-------------: | :-------------: | :-------------: | ------------- |
 | ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1  | 7/20/2021  | Content Cell  |
 
