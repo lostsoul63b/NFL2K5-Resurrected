@@ -14,6 +14,7 @@
 * Updated franchise logos for all teams
 * Updated PS controller buttons
 * Updated Xbox controller buttons 
+* Includes 2021 Week 17 Ros + Fran
 
 ### General Updates:
 
