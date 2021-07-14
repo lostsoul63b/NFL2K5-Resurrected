@@ -11,6 +11,6 @@
 * Updated presentation branding
 * Updated team selection screen for all teams
 * Updated main screen logo
-* Updated 
+* Updated franchise logos for all teams
 * Updated PS controller buttons
 * Updated Xbox controller buttons 
