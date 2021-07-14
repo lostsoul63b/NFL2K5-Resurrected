@@ -14,3 +14,7 @@
 * Updated franchise logos for all teams
 * Updated PS controller buttons
 * Updated Xbox controller buttons 
+
+### General Updates:
+
+* Preset PCSX2 1.6 video plug-in settings
