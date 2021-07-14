@@ -38,7 +38,7 @@ The mod includes the 2021 Week 17 Ros + Fran files that are pre-loaded on the me
 
 [The latest roster updates can be found here.](https://forums.operationsports.com/forums/espn-nfl-2k5-rosters/)
 
-## MOD Team credits
+## MOD Team Credits
 **Special thanks and much love to the entire mod team who collaborated and contributed their time to help bring this mod to life!**
 * LostsouL
 * xflamexofxhopex
