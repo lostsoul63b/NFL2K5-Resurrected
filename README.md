@@ -12,14 +12,16 @@ Enjoy ESPN NFL 2K5 in a completely new way with updated jerseys, helmets, pants,
 * **Duplicate Uniform textures**: 
   * Current away jersey (BUF), same as 1967 white jersey (ATL) 
   * Current away sleeves share texture across LAC, NYG, IND, HOU
+* **Player Photos**:
+  * Player photos are not included in the 2020 Week 17 roster
 
 If you find additional issues or have questions please join our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb)
-# ESPN NFL 2K5 Resurrected - Installation Guid
+# ESPN NFL 2K5 Resurrected - Installation
 * Please reference the included [install guide](PCSX2/notes/Getting_started_with_2K5_Resurrected.pdf)
 * Each release will include all prior versions of this mod and you will not need to delete or remove earlier versions
 
 ## Current Release
-| Platform | Version | GSdx Plugin | Release Date  | Release Notes |
+| Platform | Version | GSDx Plugin | Release Date  | Release Notes |
 | :-------------: | :-------------: | :-------------: | :-------------: | ------------- |
 | ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1  | AVX2 v1.2.0  | 7/20/2021  | [v1 Release Notes](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/v1-release-notes.md)  |
 
