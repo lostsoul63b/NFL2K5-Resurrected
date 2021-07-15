@@ -44,7 +44,7 @@ If you find additional issues or have questions please join our ![Discord](https
 ## MOD Team Credits
 We are excited to be releasing the initial build of this highly anticipated mod that we believe will be as legendary as NFL2K5 itself. We hope everyone enjoys playing 2K5 Football again!
 
-**Special thanks and much love** to the entire mod team who collaborated and contributed in helping bring this mod to life!
+**Special thanks and much** ![heart](https://user-images.githubusercontent.com/69597675/125808838-b20315aa-b53f-41a2-b31a-691d685fb1df.png) to the entire mod team who collaborated and contributed in helping bring this mod to life!
 * LostsouL
 * xflamexofxhopex
 * Xevan
