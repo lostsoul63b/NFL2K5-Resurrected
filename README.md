@@ -3,6 +3,8 @@
 
 Enjoy ESPN NFL 2K5 in a completely new way with updated uniforms, stadiums, logos, and more!
 
+We hope everyone enjoys playing 2K5 Football again!
+
 ---------
 ## Follow for important updates and information
 * ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb) - best place for help with various questions and the latest news
@@ -42,8 +44,6 @@ If you find additional issues or have questions please join our ![Discord](https
   * Include player photos in Ros + Fran
 ---------
 ## MOD Team Credits
-We are excited to be releasing the initial build of this highly anticipated mod that we believe will be as legendary as NFL2K5 itself. We hope everyone enjoys playing 2K5 Football again!
-
 **Special thanks and much** ![heart](https://user-images.githubusercontent.com/69597675/125808838-b20315aa-b53f-41a2-b31a-691d685fb1df.png) to the entire mod team who collaborated and contributed in helping bring this mod to life!
 * LostsouL
 * xflamexofxhopex
