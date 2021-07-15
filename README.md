@@ -20,9 +20,7 @@ Enjoy ESPN NFL 2K5 in a completely new way with updated uniforms, stadiums, logo
 ---------
 If you find additional issues or have questions please join our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb)
 # ESPN NFL 2K5 Resurrected - Installation
-* Please reference the included [install guide](PCSX2/notes/Getting_started_with_2K5_Resurrected.pdf)
-* Each release will include all prior versions of this mod and you will not need to delete or remove earlier versions
----------
+
 ## Current Release
 | Platform | Version | GSDx Plugin | Release Date  | Release Notes |
 | :-------------: | :-------------: | :-------------: | :-------------: | ------------- |
@@ -44,7 +42,9 @@ If you find additional issues or have questions please join our ![Discord](https
   * Include player photos in Ros + Fran
 ---------
 ## MOD Team Credits
-**Special thanks and much love to the entire mod team who collaborated and contributed their time to help bring this mod to life!**
+We are excited to be releasing the initial build of this highly anticipated mod that we believe will be as legendary as NFL2K5 itself. We hope everyone enjoys playing 2K5 Football again!
+
+**Special thanks and much love** to the entire mod team who collaborated and contributed in helping bring this mod to life!
 * LostsouL
 * xflamexofxhopex
 * Xevan
