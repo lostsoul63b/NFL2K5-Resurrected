@@ -19,11 +19,11 @@ If you find additional issues or have questions please join our ![Discord](https
 * Each release will include all prior versions of this mod and you will not need to delete or remove earlier versions
 
 ## Current Release
-| Platform | Version | Release Date  | Release Notes |
-| :-------------: | :-------------: | :-------------: | ------------- |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1  | 7/20/2021  | [v1 Release Notes](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/v1-release-notes.md)  |
+| Platform | Version | GSdx Plugin | Release Date  | Release Notes |
+| :-------------: | :-------------: | :-------------: | :-------------: | ------------- |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1  | AVX2 v1.2.0  | 7/20/2021  | [v1 Release Notes](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/v1-release-notes.md)  |
 
-## Select which controller style you would like - (Playstation or XBOX)
+## Select the controller style you prefer - (Playstation or XBOX)
 | [Playstation Controller Buttons](PCSX2/ps3-buttons.md) | [XBOX Controller Buttons](PCSX2/xbox-buttons.md) |
 | :-------------: | :-------------: |
 | [![playstation-controller-sm](https://user-images.githubusercontent.com/69597675/125663176-2fb58e24-e8ca-4290-b091-3e2320bd9f85.png)](PCSX2/ps3-buttons.md) | [![xbox-controller-sm](https://user-images.githubusercontent.com/69597675/125664040-e1518bc4-b977-473d-bd62-bdae9bfc8104.png)](PCSX2/xbox-buttons.md) |
@@ -32,11 +32,6 @@ If you find additional issues or have questions please join our ![Discord](https
 | Platform | Tutorial Link |
 | :-------------: | :-------------: |
 | ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1  |
-
-## Rosters
-The mod includes the 2021 Week 17 Ros + Fran files that are pre-loaded on the memory card. Special thanks to BAD_AL and his team for making great rosters year after year over on the Operation Sports forums.
-
-[The latest roster updates can be found here.](https://forums.operationsports.com/forums/espn-nfl-2k5-rosters/)
 
 ## MOD Team Credits
 **Special thanks and much love to the entire mod team who collaborated and contributed their time to help bring this mod to life!**
