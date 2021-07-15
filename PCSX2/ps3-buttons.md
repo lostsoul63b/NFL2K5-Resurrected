@@ -7,8 +7,8 @@
 * Open the included [***Getting_started_with_2K5_Resurrected.pdf***](PCSX2/notes/Getting_started_with_2K5_Resurrected.pdf) guide and follow the setup instructions
 ---------
 ## Roster Files:
-* [NFL2K5osters.com](http://nfl2k5rosters.com/) - The source for rosters and utilities
 * [NFL2K5 Discord Community](https://discord.gg/sBVXzYb) - The source for rosters, utilities, mods, h2h league and socializing
-* [Operation Sports](https://forums.operationsports.com/forums/espn-nfl-2k5-rosters/) - The source for community rosters
+* [NFL2K5osters.com](http://nfl2k5rosters.com/) - The source for rosters and utilities
+* [Operation Sports](https://forums.operationsports.com/forums/espn-nfl-2k5-rosters/) - The source for community rosters and content
 ---------
 For help or questions please join our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png)
