@@ -41,7 +41,7 @@ If you find additional issues or have questions please join our ![Discord](https
 ## Future Releases
 * **v2 (TBD)**
   * Include additional weather textures for rain and snow
-  * Include player photos in Ros + Fran
+  * Include player photos for Ros + Fran
 ---------
 ## MOD Team Credits
 **Special thanks and much** ![heart](https://user-images.githubusercontent.com/69597675/125808838-b20315aa-b53f-41a2-b31a-691d685fb1df.png) to the entire mod team who collaborated and contributed in helping bring this mod to life!
