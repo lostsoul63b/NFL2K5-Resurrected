@@ -46,4 +46,3 @@ The mod includes the 2021 Week 17 Ros + Fran files that are pre-loaded on the me
 * Orleans02
 * BAD_AL
 * Rick
-* MahomesMagic15
