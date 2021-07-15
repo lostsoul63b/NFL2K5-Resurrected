@@ -16,7 +16,7 @@ Enjoy ESPN NFL 2K5 in a completely new way with updated jerseys, helmets, pants,
   * Current away jersey (BUF), same as 1967 white jersey (ATL) 
   * Current away sleeves share texture across LAC, NYG, IND, HOU
 * **Player Photos**:
-  * Player photos are not included in the 2020 Week 17 roster
+  * Player photos are not included in the initial release
 ---------
 If you find additional issues or have questions please join our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb)
 # ESPN NFL 2K5 Resurrected - Installation
@@ -52,3 +52,4 @@ If you find additional issues or have questions please join our ![Discord](https
 * BAD_AL
 * Rick
 ---------
+For help or questions please join our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb)
