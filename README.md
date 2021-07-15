@@ -35,6 +35,11 @@ If you find additional issues or have questions please join our ![Discord](https
 | :-------------: | :-------------: |
 | ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1  |
 
+## Future Releases
+* **v2 (TBD)**
+  * Include additional weather textures for rain and snow
+  * Include player photos in Ros + Fran
+
 ## MOD Team Credits
 **Special thanks and much love to the entire mod team who collaborated and contributed their time to help bring this mod to life!**
 * LostsouL
