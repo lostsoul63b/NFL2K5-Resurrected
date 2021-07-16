@@ -43,7 +43,7 @@ If you find additional issues or have questions please join our ![Discord](https
   * Update stadium ads
   * Stadium textures for rain and snow
   * Uniform textures for rain and snow
-  * 2021 Roster with player faces + photos
+  * 2021 Roster + Franchise
 
 ---------
 ## MOD Team Credits
