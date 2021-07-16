@@ -18,7 +18,7 @@
   * Current away jersey (BUF), same as 1967 white jersey (ATL) 
   * Current away sleeves share texture across LAC, NYG, IND, HOU
 * **Player Photos**:
-  * Player photos are not included in the initial release
+  * Some player photos are incorrect or missing in the included 2020 week 17 photo roster
 ---------
 If you find additional issues or have questions please join our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb)
 # ESPN NFL 2K5 Resurrected - Installation
@@ -40,8 +40,10 @@ If you find additional issues or have questions please join our ![Discord](https
 
 ## Future Releases
 * **v2 (TBD)**
-  * Include additional weather textures for rain and snow
-  * Include player photos for Ros + Fran
+  * Update stadium ads
+  * Stadium textures for rain and snow
+  * Uniform textures for rain and snow
+
 ---------
 ## MOD Team Credits
 **Special thanks and much** ![heart](https://user-images.githubusercontent.com/69597675/125808838-b20315aa-b53f-41a2-b31a-691d685fb1df.png) to the entire mod team who collaborated and contributed in helping bring this mod to life!
