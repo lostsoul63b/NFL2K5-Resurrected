@@ -4,8 +4,10 @@
 ---------
 ## Download Instructions: ![PS3](https://user-images.githubusercontent.com/69597675/125670845-094394b0-7d78-43d7-9b1f-d2d2fc33549f.png) Playstation Buttons
 * Download the mod package ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
- [NFL 2K5 Resurrected Playstation Pkg](https://drive.google.com/file/d/18lCvR2UY0eQRmgsb6P5exToael9WSpGP/view?usp=sharing)
-* Open the included [***Getting_started_with_2K5_Resurrected.pdf***](PCSX2/notes/Getting_started_with_2K5_Resurrected.pdf) guide and follow the setup instructions
+ [NFL2K5Res_Playstation](https://drive.google.com/file/d/18lCvR2UY0eQRmgsb6P5exToael9WSpGP/view?usp=sharing)
+* Extract and open the included [***Getting_started_with_2K5_Resurrected.pdf***](PCSX2/notes/Getting_started_with_2K5_Resurrected.pdf) guide and follow the setup instructions
+![Snag_ba64cc](https://user-images.githubusercontent.com/69597675/126350662-fc17f4e6-a58b-499e-a257-1b2cabd12232.png)
+
 ---------
 ## Roster Files:
 * [NFL2K5 Discord Community](https://discord.gg/sBVXzYb) ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png) The source for rosters, utilities, mods, h2h league and socializing
