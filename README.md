@@ -43,8 +43,8 @@ If you find additional issues or have questions please join our ![Discord](https
 ## Future Releases
 * **v2 (TBD)**
   * Update stadium ads
-  * Stadium textures for rain and snow
-  * Uniform textures for rain and snow
+  * Update stadium textures for rain and snow
+  * Update uniform textures for rain and snow
 
 ---------
 ## MOD Team Credits
