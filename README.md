@@ -19,8 +19,10 @@
   * Current away sleeves share texture across LAC, NYG, IND, HOU
 * **Player Photos**:
   * Some player photos and faces are incorrect
----------
+
 If you find additional issues or have questions please join our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb)
+
+---------
 # ESPN NFL 2K5 Resurrected - Installation
 
 ## Current Release
