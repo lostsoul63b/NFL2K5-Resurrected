@@ -21,8 +21,8 @@
 * Includes 2 pre-loaded 32MB memory cards
 * Includes uLE v4.38 boot DVD ISO
 
-### Roster + Files:
+### Roster Files:
 
-* Includes 2021 season Week 17 Roster + Franchise
+* Includes 2021 season Week 17 Ros + Fran
 * Includes custom video graphics shaders
 * Includes custom settings, playbook and vip files
