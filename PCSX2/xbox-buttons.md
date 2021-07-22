@@ -7,6 +7,7 @@
  [NFL2K5Res_Xbox](https://drive.google.com/file/d/1M7ux_Az9NiY2Dl4gGCsDrWCE5TGFL8AM/view?usp=sharing)
 * Extract and open the included [***Getting_started_with_2K5_Resurrected.pdf***](PCSX2/notes/Getting_started_with_2K5_Resurrected.pdf) guide and follow the setup instructions
 ![Snag_ba64cc](https://user-images.githubusercontent.com/69597675/126350662-fc17f4e6-a58b-499e-a257-1b2cabd12232.png)
+* Watch the [Launch Video Tutorial](https://youtu.be/FELJizbEUdM) for help getting started
 
 ---------
 ## Roster Files:
