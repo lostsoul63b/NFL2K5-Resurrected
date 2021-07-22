@@ -38,7 +38,7 @@ If you find additional issues or have questions please join our ![Discord](https
 ## Tutorials
 | Platform | Tutorial Link |
 | :-------------: | :-------------: |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1  |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | [Launch Video Tutorial](https://youtu.be/FELJizbEUdM)  |
 
 ## Future Releases
 * **v2 (TBD)**
