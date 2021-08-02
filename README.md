@@ -41,6 +41,11 @@ If you find additional issues or have questions please join our ![Discord](https
 | ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | [Launch Video Tutorial](https://youtu.be/FELJizbEUdM)  |
 
 ## Future Releases
+* **v1.2 (TBD)**
+  * Fixed Jets stadium field logo
+  * Fixed Panthers stadium field logo
+  * Set controller plugin triggers LB/RB and LT/RT to default
+  * Includes 2K22 Roster + Franchise based on Madden 22 Launch Ratings
 * **v2 (TBD)**
   * Update stadium ads
   * Update stadium textures for rain and snow
