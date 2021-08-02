@@ -3,10 +3,9 @@
 ## NFL2K22 Roster + Franchise based on Madden 2022
 ![2K22CoverArt2](https://user-images.githubusercontent.com/69597675/127912196-b71bd1a0-fb49-4ee8-b3f3-f77056ed98e9.png)
 ______
-***NOTE: Player ratings are high due to this years EA Madden ratings***
 
-This file is a collaborative effort from the NFL2K5 Modding Community. Major Credit to LostsouL, BAD_AL, chibears96 and anyone else who's helped contribute to this years 2K22 Roster project.
-
+***NOTE: Overall ratings are high due to this years EA Madden ratings***
+### Details
   * Ratings based on Madden 22 Launch Ratings
   * Full 53 Player Rosters
   * Updated Player Equipment
@@ -20,6 +19,9 @@ This file is a collaborative effort from the NFL2K5 Modding Community. Major Cre
   * Bumped Franchise Salary Cap $198.2M
   * Franchise Includes 2021 Schedule (included from chibears96 rewrite project)
   * Includes *.DAT, *.max, *.psu formats
+_____
 
-## Credits
-* **Cover ART by DylDoesGames**
+### Credits
+*This file is a collaborative effort from the NFL2K5 Modding Community. Major Credit to LostsouL, BAD_AL, chibears96 and anyone else who's helped contribute to this years 2K22 Roster project.*
+
+***Cover ART by DylDoesGames***
