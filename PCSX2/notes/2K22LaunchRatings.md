@@ -25,8 +25,11 @@ _____
 ### Download Files
 * Download the 2K22 roster package ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
  [NFL2K22LaunchRatings](https://drive.google.com/file/d/10RvV_cCJmVLQp02eMQaVyWqzpRnRtn05/view?usp=sharing)
- _____
- 
+_____
+
+### Tutorial *(coming soon)*
+
+_____ 
 ### Credits
 *This file is a collaborative effort from the NFL2K5 Modding Community. Major Credit to LostsouL, BAD_AL, chibears96 and anyone else who's helped contribute to this years 2K22 Roster project.*
 
