@@ -19,6 +19,7 @@ ______
   * Bumped Franchise Salary Cap $198.2M
   * Franchise Includes 2021 Schedule (included from chibears96 rewrite project)
   * Includes *.DAT, *.max, *.psu formats
+  * Includes PCSX2 NFL2K22 pre-loaded memory card
 _____
 
 ### Credits
