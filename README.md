@@ -44,6 +44,7 @@ If you find additional issues or have questions please join our ![Discord](https
 * **v1.2 (TBD)**
   * Fixed Jets stadium field logo
   * Fixed Panthers stadium field logo
+  * Added missing Green Bay stadium ads
   * Set controller plugin triggers LB/RB and LT/RT to default
   * Includes 2K22 Roster + Franchise based on Madden 22 Launch Ratings
 * **v2 (TBD)**
