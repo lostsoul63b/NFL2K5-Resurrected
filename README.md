@@ -28,8 +28,8 @@ If you find additional issues or have questions please join our ![Discord](https
 
 ## Available Releases
 | Platform | Version | GSDx Plugin | Release Date  | Release Notes | PS Buttons | XB Buttons | Tutorial |
-| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | ------------- |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1  | AVX2 v1.2.0  | 7/20/2021  | [v1 Release Notes](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/v1-release-notes.md)  | [![playstation-controller-sm2](https://user-images.githubusercontent.com/69597675/128039076-a3c13e3d-4b95-4eaf-9f80-4d46c23ee1e1.png)](PCSX2/ps3-buttons.md) | [![xbox-controller-sm2](https://user-images.githubusercontent.com/69597675/128039352-1c04fa79-ef22-4266-8b9a-e6e8e257d0f9.png)](PCSX2/xbox-buttons.md) | [Launch Video](https://youtu.be/FELJizbEUdM)
+| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :------------- |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1  | AVX2 v1.2.0  | 7/20/2021  | [v1 Release Notes](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/v1-release-notes.md)  | [![playstation-controller-sm2](https://user-images.githubusercontent.com/69597675/128039076-a3c13e3d-4b95-4eaf-9f80-4d46c23ee1e1.png)](PCSX2/ps3-buttons.md) | [![xbox-controller-sm2](https://user-images.githubusercontent.com/69597675/128039352-1c04fa79-ef22-4266-8b9a-e6e8e257d0f9.png)](PCSX2/xbox-buttons.md) | [Launch Video](https://youtu.be/FELJizbEUdM) |
 | ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.2  | AVX2 v1.2.0  | TBD  | [v1.2 Release Notes](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/v1.2-release-notes.md)  |
 
 ## Current download pages - Select the controller platform you prefer - (Playstation or XBOX)
