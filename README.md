@@ -47,6 +47,7 @@ If you find additional issues or have questions please join our ![Discord](https
   * Fixed Jets stadium field logo
   * Fixed Panthers stadium field logo
   * Added missing Green Bay stadium ads
+  * Updated Lions stadium endzone
   * Set controller plugin triggers LB/RB and LT/RT to default
 * **v2 (TBD)**
   * Update stadium ads
