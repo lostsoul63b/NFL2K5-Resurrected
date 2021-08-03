@@ -31,8 +31,8 @@ If you find additional issues or have questions please join our ![Discord](https
 | :-------------: | :-------------: | :-------------: | :-------------: | ------------- | :-------------: | ------------- |
 | ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1  | AVX2 v1.2.0  | 7/20/2021  | [v1 Release Notes](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/v1-release-notes.md)  | [Download](https://drive.google.com/file/d/18lCvR2UY0eQRmgsb6P5exToael9WSpGP/view?usp=sharing) | [Download](https://drive.google.com/file/d/1M7ux_Az9NiY2Dl4gGCsDrWCE5TGFL8AM/view?usp=sharing)
 | ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.2  | AVX2 v1.2.0  | TBD  | [v1.2 Release Notes](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/v1.2-release-notes.md)  |
----------
-## Select the controller platform you prefer - (Playstation or XBOX)
+
+## Download pages - Select the controller platform you prefer - (Playstation or XBOX)
 | [Playstation Controller Buttons](PCSX2/ps3-buttons.md) | [XBOX Controller Buttons](PCSX2/xbox-buttons.md) |
 | :-------------: | :-------------: |
 | [![playstation-controller-sm](https://user-images.githubusercontent.com/69597675/125663176-2fb58e24-e8ca-4290-b091-3e2320bd9f85.png)](PCSX2/ps3-buttons.md) | [![xbox-controller-sm](https://user-images.githubusercontent.com/69597675/125664040-e1518bc4-b977-473d-bd62-bdae9bfc8104.png)](PCSX2/xbox-buttons.md) |
