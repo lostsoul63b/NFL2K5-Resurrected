@@ -14,11 +14,13 @@
 ## Known Mod Issues:
 * **Missing snow + rain weather textures**:
   * The initial release only includes clear weather textures. The mod team will be adding the additional weather textures in a future release update.
-* **Duplicate Uniform textures**: 
+* **Uniform / Equipment textures**: 
   * Current away jersey (BUF), same as 1967 white jersey (ATL) 
   * Current away sleeves share texture across LAC, NYG, IND, HOU
+  * Redskins Nike gloves may not display
 * **Player Photos**:
   * Some player photos and faces are incorrect
+  * Roster player photo replace is not included
 
 If you find additional issues or have questions please join our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb)
 
