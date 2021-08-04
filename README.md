@@ -43,6 +43,7 @@ If you find additional issues or have questions please join our ![Discord](https
   * Added missing franchise team logos
   * Updated Lions stadium endzone  
   * Set controller plugin triggers LB/RB and LT/RT to default
+  * Set enable cheats
 * **v2 (TBD)**
   * Update stadium ads
   * Update stadium textures for rain and snow
