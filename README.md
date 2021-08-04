@@ -31,7 +31,7 @@ If you find additional issues or have questions please join our ![Discord](https
 ## Available Releases
 | Platform | Version | GSDx Plugin | Release Date  | Release Notes | PS Buttons | XB Buttons | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1  | AVX2 v1.2.0  | 7/20/2021  | [v1 Release Notes](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/v1-release-notes.md)  | [Download](PCSX2/ps3-buttons.md) | [Download](PCSX2/xbox-buttons.md) | [Launch Video](https://youtu.be/FELJizbEUdM) |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1  | AVX2 v1.2.0  | 7/22/2021  | [v1 Release Notes](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/v1-release-notes.md)  | [Download](PCSX2/ps3-buttons.md) | [Download](PCSX2/xbox-buttons.md) | [Launch Video](https://youtu.be/FELJizbEUdM) |
 | ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.2  | AVX2 v1.2.0  | TBD  | [v1.2 Release Notes](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/v1.2-release-notes.md)  |
 
 ---------
