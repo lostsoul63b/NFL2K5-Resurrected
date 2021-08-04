@@ -3,8 +3,8 @@
 -----
 
 ## Click the controller buttons you prefer - (Playstation or XBOX)
-| [Playstation Controller Buttons](PCSX2/ps3-buttons.md) | [XBOX Controller Buttons](PCSX2/xbox-buttons.md) |
+| [Playstation Controller Buttons](ps3-buttons.md) | [XBOX Controller Buttons](xbox-buttons.md) |
 | :-------------: | :-------------: |
-| [![playstation-controller-sm](https://user-images.githubusercontent.com/69597675/125663176-2fb58e24-e8ca-4290-b091-3e2320bd9f85.png)](PCSX2/ps3-buttons.md) | [![xbox-controller-sm](https://user-images.githubusercontent.com/69597675/125664040-e1518bc4-b977-473d-bd62-bdae9bfc8104.png)](PCSX2/xbox-buttons.md) |
+| [![playstation-controller-sm](https://user-images.githubusercontent.com/69597675/125663176-2fb58e24-e8ca-4290-b091-3e2320bd9f85.png)](ps3-buttons.md) | [![xbox-controller-sm](https://user-images.githubusercontent.com/69597675/125664040-e1518bc4-b977-473d-bd62-bdae9bfc8104.png)](xbox-buttons.md) |
 
 -----
