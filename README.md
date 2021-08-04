@@ -3,7 +3,7 @@
 
 **Enjoy ESPN NFL 2K5 in a completely new way with updated uniforms, stadiums, logos, and more! We hope everyone enjoys playing NFL 2K5 Football again!**
 
-[Click here for this years NFL2K22 Roster + Franchise](PCSX2/notes/2K22LaunchRatings.md)
+[Click here for this years NFL2K22 Roster + Franchise](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/2K22LaunchRatings.md)
 
 ---------
 ## Follow for important updates and information
