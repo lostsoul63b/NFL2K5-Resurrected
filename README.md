@@ -26,13 +26,13 @@ If you find additional issues or have questions please join our ![Discord](https
 ---------
 # ESPN NFL 2K5 Resurrected - Installation
 
-### If you have already installed v1 of our mod, you only need to download the latest fix pkg.
+### If you have already installed v1 of our mod, you only need to download and apply the latest fix pkg.
 
 ## Available Releases
 | Platform | Version | GSDx Plugin | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1  | AVX2 v1.2.0  | 7/22/2021  | [v1 Release Notes](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/v1-release-notes.md)  | [Download](PCSX2/button-select.md) | [Launch Video](https://youtu.be/FELJizbEUdM) |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.2  | AVX2 v1.2.0  | 8/5/2021  | [v1.2 Fix Notes](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/v1.2-release-notes.md) | [Download](PCSX2/v1.2/v1.2button-select.md) | v1.2 Video |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.2 Full  | AVX2 v1.2.0  | 8/5/2021  | [v1.2 Update Notes](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/v1.2-release-notes.md)  | [Download](PCSX2/button-select.md) | [Launch Video](https://youtu.be/FELJizbEUdM) |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.2 Fix  | AVX2 v1.2.0  | 8/5/2021  | [v1.2 Update Notes](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/v1.2-release-notes.md) | [Download](PCSX2/v1.2/v1.2button-select.md) | Patch Video |
 
 ---------
 ## Future Releases
