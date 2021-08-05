@@ -32,7 +32,7 @@ If you find additional issues or have questions please join our ![Discord](https
 | Platform | Version | GSDx Plugin | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
 | ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.2  | AVX2 v1.2.0  | 8/5/2021  | [v1.2 Update Notes](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/v1.2-release-notes.md)  | [Full Pkg](PCSX2/button-select.md) | [Launch Video](https://youtu.be/FELJizbEUdM) |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.2  | AVX2 v1.2.0  | 8/5/2021  | [v1.2 Update Notes](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/v1.2-release-notes.md) | [Fix Pkg](PCSX2/v1.2/v1.2button-select.md) | Patch Video |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.2  | AVX2 v1.2.0  | 8/5/2021  | [v1.2 Update Notes](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/v1.2-release-notes.md) | [Fix Pkg](PCSX2/v1.2/v1.2button-select.md) | [Patch Video](https://youtu.be/rnpFSgOovCM) |
 
 ---------
 ## Future Releases
