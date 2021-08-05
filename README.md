@@ -26,7 +26,7 @@ If you find additional issues or have questions please join our ![Discord](https
 ---------
 # ESPN NFL 2K5 Resurrected - Installation
 
-### If you have already installed v1 of our mod, you only need to download the latest version.
+### If you have already installed v1 of our mod, you only need to download the latest fix pkg.
 
 ## Available Releases
 | Platform | Version | GSDx Plugin | Release Date  | Release Notes | Download | Tutorial |
