@@ -36,6 +36,14 @@ If you find additional issues or have questions please join our ![Discord](https
 
 ---------
 ## Future Releases
+* **v2 (TBD)**
+  * Update stadium ads
+  * Update stadium textures for rain and snow
+  * Update uniform textures for rain and snow
+  * SSE4 plugin
+  * Alternate / additional uniforms
+  * Roster player photo replacement
+
 * **v1.2 (8/5/2021)**
   * Fixed Jets stadium field logo
   * Fixed Panthers stadium field logo
@@ -44,10 +52,6 @@ If you find additional issues or have questions please join our ![Discord](https
   * Updated Lions stadium endzone  
   * Set controller plugin triggers LB/RB and LT/RT to default
   * Set enable cheats
-* **v2 (TBD)**
-  * Update stadium ads
-  * Update stadium textures for rain and snow
-  * Update uniform textures for rain and snow
 
 ---------
 ## MOD Team Credits
