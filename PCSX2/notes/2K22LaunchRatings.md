@@ -24,7 +24,7 @@ _____
 
 ### Download Files
 * Download the 2K22 roster package ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
- [NFL2K22LaunchRatings](https://drive.google.com/file/d/10RvV_cCJmVLQp02eMQaVyWqzpRnRtn05/view?usp=sharing)
+ [NFL2K22LaunchRatings](https://1drv.ms/u/s!Ao3FN3MXgyp-g4hKhMag_3QeHW0s9w?e=hESArC)
  
  If you find issues or have questions please join our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb)
 _____
