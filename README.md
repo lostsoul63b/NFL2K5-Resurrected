@@ -40,6 +40,7 @@ If you find additional issues or have questions please join our ![Discord](https
   * Update stadium ads
   * Update stadium textures for rain and snow
   * Update uniform textures for rain and snow
+  * Player tatoos
   * SSE4 plugin
   * Alternate / additional uniforms
   * Roster player photo replacement
@@ -61,6 +62,7 @@ If you find additional issues or have questions please join our ![Discord](https
 * Xevan
 * Orleans02
 * BAD_AL
+* CujoMatty
 * Rick
 * Heavvy
 * MahomesMagic15
