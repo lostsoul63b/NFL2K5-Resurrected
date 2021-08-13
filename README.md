@@ -40,8 +40,8 @@ If you find additional issues or have questions please join our ![Discord](https
   * Update Stadium ADs
   * Add Rain + Snow Stadium textures
   * Add Mud Uniforms for bad weather
-  * Add Player Tattoos
-  * Roster player photo replacement
+  * Add player tattoos
+  * Roster player photos
   * Alternate / additional uniforms
   * SSE4 plugin 
 
