@@ -36,14 +36,13 @@ If you find additional issues or have questions please join our ![Discord](https
 
 ---------
 ## Future Releases
-* **v2 (TBD)**
+* **Future updates (TBD)**
   * Update Stadium ADs
   * Add Rain + Snow Stadium textures
   * Add Mud Uniforms for bad weather
   * Add player tattoos
   * Add player photos
-  * Alternate + additional uniforms
-  * SSE4 plugin 
+  * Alternate + additional uniforms 
 
 * **v1.2 (8/5/2021)**
   * Fixed Jets stadium field logo
