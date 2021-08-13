@@ -12,6 +12,8 @@
 * ![Twitter](https://user-images.githubusercontent.com/69597675/124641220-71a61780-de5c-11eb-8bd9-0c8c3ad46949.png) [Twitter](https://twitter.com/blostsou)
 ---------
 ## Known Mod Issues:
+* **AVX2 Plug-in**:
+  * Some CPUs may not support this plugin
 * **Missing snow + rain weather textures**:
   * The initial release only includes clear weather textures. The mod team will be adding the additional weather textures in a future release update.
 * **Uniform, Stadium, Equip textures**: 
