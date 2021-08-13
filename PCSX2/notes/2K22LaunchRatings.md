@@ -30,7 +30,7 @@ _____
 _____
 
 ### Tutorial *(coming soon)*
-
+* ESPN NFL 2K22 Launch Ratings [Tutorial video](https://youtu.be/btIZorxIhHo)
 _____ 
 ### Credits
 *This file is a collaborative effort from the NFL2K5 Modding Community. Major Credit to LostsouL, BAD_AL, CujoMatty, chibears96 and anyone else who's helped contribute to this years 2K22 Roster project.*
