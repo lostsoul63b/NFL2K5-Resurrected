@@ -23,7 +23,7 @@ ______
 _____
 
 ### Download Files
-* Download the 2K22 roster package ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
+* Download the ESPN NFL 2K22 roster package ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
  [NFL2K22LaunchRatings](https://www.mediafire.com/file/wz45zvbbkpx8q7n/NFL2K22LaunchRatings.zip/file)
  
  If you find issues or have questions please join our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb)
