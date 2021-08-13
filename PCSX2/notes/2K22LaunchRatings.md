@@ -33,6 +33,6 @@ _____
 
 _____ 
 ### Credits
-*This file is a collaborative effort from the NFL2K5 Modding Community. Major Credit to LostsouL, BAD_AL, chibears96 and anyone else who's helped contribute to this years 2K22 Roster project.*
+*This file is a collaborative effort from the NFL2K5 Modding Community. Major Credit to LostsouL, BAD_AL, CujoMatty, chibears96 and anyone else who's helped contribute to this years 2K22 Roster project.*
 
 ***Cover ART by DylDoesGames***
