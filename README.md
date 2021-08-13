@@ -39,8 +39,8 @@ If you find additional issues or have questions please join our ![Discord](https
 * **v2 (TBD)**
   * Update stadium ads
   * Update stadium textures for rain and snow
-  * Update uniform textures for rain and snow
-  * Player tatoos
+  * Add Mud Uniforms for bad weather
+  * Player tattoos
   * SSE4 plugin
   * Alternate / additional uniforms
   * Roster player photo replacement
