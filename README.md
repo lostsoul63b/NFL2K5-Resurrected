@@ -42,7 +42,7 @@ If you find additional issues or have questions please join our ![Discord](https
   * Add Mud Uniforms for bad weather
   * Add player tattoos
   * Roster player photos
-  * Alternate / additional uniforms
+  * Alternate + additional uniforms
   * SSE4 plugin 
 
 * **v1.2 (8/5/2021)**
