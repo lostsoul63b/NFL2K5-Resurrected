@@ -14,7 +14,7 @@
 ## Known Mod Issues:
 * **AVX2 Plug-in**:
   * Some CPUs may not support this plugin
-* **Missing snow + rain weather textures**:
+* **Missing Snow + Rain weather textures**:
   * The initial release only includes clear weather textures. The mod team will be adding the additional weather textures in a future update.
 * **Uniform, Stadium, Equip textures**: 
   * Current away jersey (BUF), same as 1967 white jersey (ATL) 
