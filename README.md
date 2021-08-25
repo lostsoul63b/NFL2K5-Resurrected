@@ -36,13 +36,15 @@ If you find additional issues or have questions please join our ![Discord](https
 
 ---------
 ## Future Releases
-* **Future updates (TBD)**
-  * Update Stadium ADs
-  * Add Rain + Snow Stadium textures
-  * Add Mud Uniforms for bad weather
-  * Add player tattoos
-  * Add player photos
-  * Alternate + additional uniforms 
+* **v1.3 (TBD)**
+  * Added bad weather uniforms for all teams
+  * Added rain stadium textures for all teams
+  * Added snow stadium textures for all teams
+  * Added alternate uniforms for some teams
+  * Added CujoMatty's Tattoo mod
+  * Added player photos
+  * Include updated launch ratings roster
+  * Overall uniform and stadium cleanup
 
 * **v1.2 (8/5/2021)**
   * Fixed Jets stadium field logo
