@@ -9,12 +9,12 @@ ______
   * Full 53 Player Rosters
   * Updated Player Equipment
   * Updated Player photos
-  * Updated Depth Charts
-  * Updated Coaches
-  * Updated PBP
-  * Updated City for OAK, STL, SD (L.Vegas Raiders, L.Angeles Chargers, L.Angeles Rams)  
+  * Updated Depth Charts  
   * Updated Free Agents
   * Updated Draft Class
+  * Updated Coaches
+  * Updated PBP
+  * Updated City for OAK, STL, SD (L.Vegas Raiders, L.Angeles Chargers, L.Angeles Rams)    
   * Bumped Franchise Salary Cap $198.2M
   * Franchise Includes 2021 Schedule
   * Includes *.DAT, *.max, *.psu formats
