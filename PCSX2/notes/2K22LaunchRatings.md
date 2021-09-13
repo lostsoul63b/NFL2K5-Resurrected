@@ -23,11 +23,10 @@ _____
 ## Roster Downloads
 | Roster Version | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: |
-| Camp Ratings | [Camp Pkg](https://www.mediafire.com/file/wz45zvbbkpx8q7n/NFL2K22CampRatings.zip/file) | [Watch Now](https://youtu.be/btIZorxIhHo)
+| Camp Ratings | [![download](https://user-images.githubusercontent.com/69597675/133119408-139bb72d-a4f4-46ed-bc8d-566ea3852a70.png)](https://www.mediafire.com/file/wz45zvbbkpx8q7n/NFL2K22CampRatings.zip/file) | [Watch Now](https://youtu.be/btIZorxIhHo)
 | Launch Ratings | ![Coming-Soon](https://user-images.githubusercontent.com/69597675/133116331-4bd92e2f-f4f6-47e8-bfc7-53a6928a52c1.png) |
- 
- 
- If you find issues or have questions please join our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb)
+
+If you find issues or have questions please join our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb)
 _____ 
 ### Credits
 *This file is a collaborative effort from the NFL2K5 Modding Community. Major Credit to LostsouL, BAD_AL, CujoMatty, chibears96 and anyone else who's helped contribute to this years 2K22 Roster project.*
