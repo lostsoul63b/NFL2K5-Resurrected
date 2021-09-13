@@ -2,8 +2,7 @@
 
 ## NFL2K22 Roster + Franchise
 ![2K22CoverArt2](https://user-images.githubusercontent.com/69597675/127912196-b71bd1a0-fb49-4ee8-b3f3-f77056ed98e9.png)
-______
-
+_____
 ### 2K22 Ros + Fran Details
   * Ratings based on Madden 22 Ratings
   * Full 53 Player Rosters
@@ -24,8 +23,8 @@ _____
 ## Roster Downloads
 | Roster Version | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: |
-| Camp Ratings | [Camp Ratings](https://www.mediafire.com/file/wz45zvbbkpx8q7n/NFL2K22CampRatings.zip/file) | [Watch Now](https://youtu.be/btIZorxIhHo)
-| Launch Ratings | ![Coming-Soon](https://user-images.githubusercontent.com/69597675/133114665-4d059f1c-e86c-4579-bfd8-7b6143c8322d.png) |
+| Camp Ratings | [Camp Pkg](https://www.mediafire.com/file/wz45zvbbkpx8q7n/NFL2K22CampRatings.zip/file) | [Watch Now](https://youtu.be/btIZorxIhHo)
+| Launch Ratings | ![Coming-Soon](https://user-images.githubusercontent.com/69597675/133116331-4bd92e2f-f4f6-47e8-bfc7-53a6928a52c1.png) |
  
  
  If you find issues or have questions please join our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb)
