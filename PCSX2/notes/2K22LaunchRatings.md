@@ -21,10 +21,14 @@ _____
 _____
 
 ## Roster Downloads
-| Roster Version | Download | Tutorial |
-| :-------------: | :-------------: | :-------------: |
-| Camp Ratings | [![GitHubDownload](https://user-images.githubusercontent.com/69597675/133124002-ae67a081-32b8-4ad4-aac4-99d24a14bd19.png)](https://www.mediafire.com/file/wz45zvbbkpx8q7n/NFL2K22CampRatings.zip/file) | [![VideoTutorial](https://user-images.githubusercontent.com/69597675/133124182-64327485-8aaf-4658-9596-ff723e71465d.png)](https://youtu.be/btIZorxIhHo)
-| Launch Ratings | Coming Soon! | Coming Soon! |
+| Roster Version | File Download |
+| :-------------: | :-------------: |
+| Camp Ratings | [Camp Pkg](https://www.mediafire.com/file/wz45zvbbkpx8q7n/NFL2K22CampRatings.zip/file) |
+| Launch Ratings | Coming Soon! |
+
+_____ 
+## Tutorial
+**Watch the video for help with this years rosters** [Watch Now!](https://youtu.be/btIZorxIhHo)
 
 If you find issues or have questions please join our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb)
 _____ 
