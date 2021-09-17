@@ -24,7 +24,7 @@ _____
 | Roster Version | File Download |
 | :-------------: | :-------------: |
 | Camp Ratings | [Camp Pkg](https://www.mediafire.com/file/wz45zvbbkpx8q7n/NFL2K22CampRatings.zip/file) |
-| Launch Ratings | Coming Soon! |
+| Week 1 Ratings | Coming Soon! |
 
 _____ 
 ## Tutorial
