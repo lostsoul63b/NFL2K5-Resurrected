@@ -1,6 +1,6 @@
 ## ![NFL2K5-Resurrected-Logo_Horiz5](https://user-images.githubusercontent.com/69597675/125652934-6b21a6c3-e700-4709-8e10-01deb62d37f7.png)
 
-## NFL 2K22 Roster + Franchise
+## NFL 2K22 Roster + Franchise (Week 1 Available Now)
 ![2K22CoverArt2](https://user-images.githubusercontent.com/69597675/127912196-b71bd1a0-fb49-4ee8-b3f3-f77056ed98e9.png)
 _____
 ### NFL 2K22 Ros + Fran Details
@@ -24,8 +24,7 @@ _____
 | Roster Version | File Download |
 | :-------------: | :-------------: |
 | Madden Camp Ratings | [Camp Pkg](https://www.mediafire.com/file/wz45zvbbkpx8q7n/NFL2K22CampRatings.zip/file) |
-| Madden Week 1 Ratings | Coming Soon! |
-| CujoMatty's Week 1 Ratings | Coming Soon! |
+| CujoMatty Week 1 Ratings | [CM Wk1](https://www.mediafire.com/file/lt91808bee6314b/CujoMatty_Week1Ratings.zip/file) |
 
 _____ 
 ## Tutorial
