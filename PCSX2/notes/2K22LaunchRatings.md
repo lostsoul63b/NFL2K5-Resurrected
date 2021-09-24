@@ -16,8 +16,8 @@ _____
   * Updated City for OAK, STL, SD (L.Vegas Raiders, L.Angeles Chargers, L.Angeles Rams)    
   * Bumped Franchise Salary Cap $198.2M
   * Franchise Includes 2021 Schedule
-  * Includes *.DAT, *.max, *.psu formats
-  * Includes PCSX2 NFL2K22 pre-loaded memory card
+  * Includes *.dat, *.max, *.psu formats
+  * Includes PCSX2 pre-loaded memory cards
 _____
 
 ## Roster Downloads
