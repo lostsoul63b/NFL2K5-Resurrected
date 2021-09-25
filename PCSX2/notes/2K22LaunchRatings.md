@@ -29,6 +29,21 @@ _____
 ### Tutorial
 Watch the video for help with this years rosters ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png) [Watch Now!](https://youtu.be/Y-rtsSjPo20)
 
+### Installation
+**PCSX2 Emulator for PC**
+ * After extracting, copy the pre-loaded memcard (..\PCSX2_memcard\NFL2022Week2.ps2) into your PCSX2 (..\PCSX2_NFL2K21\memcards) directory
+ * Insert the NFL2022Week2 car into one of the two memory card slots, then load the rosters in-game
+ * Copy the player photos from (..\Mod_Files\photos) into your local PCSX2 Mod photo directory replacing all files
+ * Replace the #Player photos syntax in the Mod yaml with the data in the included yaml.txt (..\Mod_Files\yaml.txt)
+
+**PS2**
+ * Follow your current transfer method and use the game saves in the PS2 folders (Fran/Ros)
+
+**PS3**
+ * Follow your current transfer method and use the game saves in the PS3 folders (Fran/Ros)
+
+**Xbox**
+ * Follow your current transfer method and use the game saves in the Xbox folders (Fran/Ros)
 _____ 
 ## Credits
 *This file is a collaborative effort from the NFL2K5 Modding Community. Major Credit to LostsouL, BAD_AL, CujoMatty, chibears96 and anyone else who's helped contribute to this years 2K22 Roster project.*
