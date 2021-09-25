@@ -24,7 +24,7 @@ _____
 | Roster Version | File Download |
 | :-------------: | :-------------: |
 | Madden Camp Ratings | [Camp Pkg](https://www.mediafire.com/file/wz45zvbbkpx8q7n/NFL2K22CampRatings.zip/file) |
-| CujoMatty Week 1 Ratings | [CM Wk1](https://www.mediafire.com/file/lt91808bee6314b/CujoMatty_Week1Ratings.zip/file) |
+| CujoMatty Week 1 Ratings | [Cujo Wk1](https://www.mediafire.com/file/lt91808bee6314b/CujoMatty_Week1Ratings.zip/file) |
 | Madden Week 2 Ratings | [NFL22 Wk2](https://www.mediafire.com/file/fanv1p7qzu1rfxo/NFL2022Week2.zip/file)
 
 ### Tutorial
