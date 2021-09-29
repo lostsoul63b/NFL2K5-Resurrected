@@ -40,11 +40,16 @@ If you find additional issues or have questions please join our ![Discord](https
   * Added bad weather uniforms for all teams
   * Added rain stadium textures for all teams
   * Added snow stadium textures for all teams
-  * Added alternate uniforms for some teams
-  * Added CujoMatty's Tattoo mod
-  * Added player photos
-  * Include updated launch ratings roster
-  * Overall uniform and stadium cleanup
+  * Added additional alternate uniforms for specific teams
+  * Updated Colts stadium (RCA Dome)
+  * Added CujoMatty's tattoo mod
+  * Added CujoMatty's Week 1 hi/low ratings
+  * Added real player photos
+  * Uniform cleanup + correction
+  * Fixed Broncos stadium wall
+  * Fixed Bears stadium endzone
+  * Fixed stadium lighting issue
+  * Fixed stadium cloud shadow issue
 
 * **v1.2 (8/5/2021)**
   * Fixed Jets stadium field logo
