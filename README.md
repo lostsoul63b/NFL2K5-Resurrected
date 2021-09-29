@@ -36,7 +36,7 @@ If you find additional issues or have questions please join our ![Discord](https
 
 ---------
 ## Future Releases
-* **v1.3 (9/30/2021)**
+* **v1.3 (10/3/2021)**
   * Added bad weather uniforms for all teams
   * Added rain stadium textures for all teams
   * Added snow stadium textures for all teams
