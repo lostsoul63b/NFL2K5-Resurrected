@@ -1,6 +1,6 @@
 ## ![NFL2K5-Resurrected-Logo_Horiz5](https://user-images.githubusercontent.com/69597675/125652934-6b21a6c3-e700-4709-8e10-01deb62d37f7.png)
 
-## NFL 2022 Roster + Franchise (Week 1 & Week 2 Available Now)
+## NFL 2022 Roster + Franchise (Available Now)
 ![2K22CoverArt2](https://user-images.githubusercontent.com/69597675/127912196-b71bd1a0-fb49-4ee8-b3f3-f77056ed98e9.png)
 _____
 ### NFL 2022 Ros + Fran Details
