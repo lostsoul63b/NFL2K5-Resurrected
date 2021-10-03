@@ -7,8 +7,8 @@
 ## Download Instructions: ![PS3](https://user-images.githubusercontent.com/69597675/125670845-094394b0-7d78-43d7-9b1f-d2d2fc33549f.png) Playstation Buttons
 * Download the mod package ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
  [NFL2K5ResPSv1.2Full](https://www.mediafire.com/file/vsbfh8fs31qpywp/NFL2K5ResPSv1.2Full.zip/file)
-* Extract and open the included [***Getting_started_with_2K5_Resurrected.pdf***](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/Getting_started_with_2K5_Resurrected.pdf) guide and follow the setup instructions
-![Snag_ba64cc](https://user-images.githubusercontent.com/69597675/126350662-fc17f4e6-a58b-499e-a257-1b2cabd12232.png)
+* Extract and open the included [***2K5_Resurrected.docx***](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/Getting_started_with_2K5_Resurrected.pdf) guide and follow the setup instructions
+![Snag_328421](https://user-images.githubusercontent.com/69597675/135735802-6e8f79b4-198c-43cd-90c1-cd63cc4fa8fd.png)
 * Watch the ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png) [Launch Video Tutorial](https://youtu.be/FELJizbEUdM) for help getting started
 
 ---------
