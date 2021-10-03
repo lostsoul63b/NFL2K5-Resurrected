@@ -9,7 +9,7 @@
  [NFL2K5ResXBv1.3Full](https://www.mediafire.com/file/oa3pvxv2tfylm10/NFL2K5ResXBv1.3Full.zip/file)
 * Extract and open the included [***2K5_Resurrected.docx***](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/2K5-Resurrected.docx) guide and follow the setup instructions
 ![Snag_328421](https://user-images.githubusercontent.com/69597675/135735802-6e8f79b4-198c-43cd-90c1-cd63cc4fa8fd.png)
-* Watch the ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png) [Launch Video Tutorial](https://youtu.be/FELJizbEUdM) for help getting started
+* **Checkout** the ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png) [Help Video](https://youtu.be/T-0od4B7HEo)
 
 ---------
 ## Roster Files:
