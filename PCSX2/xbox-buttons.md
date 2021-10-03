@@ -7,8 +7,8 @@
 ## Download Instructions: ![xbox-small](https://user-images.githubusercontent.com/69597675/125670999-d7da762d-c1eb-4336-a6ee-6292dc2da38d.png) Xbox Buttons
 * Download the mod package ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
  [NFL2K5ResXBv1.2Full](https://www.mediafire.com/file/2hkyt6dwtklajjc/NFL2K5ResXBv1.2Full.zip/file)
-* Extract and open the included [***Getting_started_with_2K5_Resurrected.pdf***](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/Getting_started_with_2K5_Resurrected.pdf) guide and follow the setup instructions
-![Snag_ba64cc](https://user-images.githubusercontent.com/69597675/126350662-fc17f4e6-a58b-499e-a257-1b2cabd12232.png)
+* Extract and open the included [***2K5_Resurrected.docx***](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/Getting_started_with_2K5_Resurrected.pdf) guide and follow the setup instructions
+![Snag_328421](https://user-images.githubusercontent.com/69597675/135735802-6e8f79b4-198c-43cd-90c1-cd63cc4fa8fd.png)
 * Watch the ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png) [Launch Video Tutorial](https://youtu.be/FELJizbEUdM) for help getting started
 
 ---------
