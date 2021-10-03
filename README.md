@@ -14,12 +14,9 @@
 ## Known Mod Issues:
 * **AVX2 Plug-in**:
   * Some CPUs may not support this plugin
-* **Missing Snow + Rain weather textures**:
-  * The initial release only includes clear weather textures. The mod team will be adding the additional weather textures in a future update.
 * **Uniform, Stadium, Equip textures**: 
   * Current away jersey (BUF), same as 1967 white jersey (ATL) 
   * Current away sleeves share texture across LAC, NYG, IND, HOU
-  * Redskins Nike gloves may not always display
 
 If you find additional issues or have questions please join our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb)
 
