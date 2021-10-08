@@ -38,7 +38,7 @@ If you find additional issues or have questions please join our ![Discord](https
   * Fixed field overlay shadow
   * Fixed Chargers endzone + goal post
   * Added CMs coach textures
-  * Added CMs updated gloves + cleats equipment for several teams (Bills, Colts, etc.)
+  * Added CMs updated gloves + cleats equipment (Bills, Colts, etc.)
   * Added FoHs updated Vikings stadium textures
   * Added FoHs updated Steelers stadium textures
   * Added snow overlay to Dolphins goal post
