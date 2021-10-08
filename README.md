@@ -34,6 +34,15 @@ If you find additional issues or have questions please join our ![Discord](https
 
 ---------
 ## Future Releases
+* **v1.3.5 (10/10/2021)**
+  * Fixed field overlay shadow
+  * Fixed Chargers endzone + goal post
+  * Added CMs coach textures
+  * Added CMs updated gloves + cleats equipment for several teams (Bills, Colts, etc.)
+  * Added FoHs updated Vikings stadium textures
+  * Added FoHs updated Steelers stadium textures
+  * Added snow overlay to Dolphins goal post
+  * Added orange pants + fixed helmet stripes for Browns
 * **v1.3 (10/3/2021)**
   * Added bad weather uniforms for all teams
   * Added rain stadium textures for all teams
