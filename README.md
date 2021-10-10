@@ -42,6 +42,7 @@ If you find additional issues or have questions please join our ![Discord](https
   * Added CMs updated gloves + cleats equipment (Bills, Colts, etc.)
   * Added FoHs updated Vikings stadium textures
   * Added FoHs updated Steelers stadium textures
+  * Added FoHs updated Colts stadium textures
   * Added snow overlay to Dolphins goal post
   * Added orange pants + fixed helmet stripes for Browns
 * **v1.3 (10/3/2021)**
