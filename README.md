@@ -34,6 +34,18 @@ If you find additional issues or have questions please join our ![Discord](https
 
 ---------
 ## Future Releases
+* **v1.4 (10/17/2021)**
+  * Updated stadium pictures in team options
+  * Updated team uniform selection screen
+  * Updated Cowboys stadium
+  * Updated Falcons stadium
+  * Updated Lions stadium
+  * Updated Saints stadium
+  * Updated Vikings stadium
+  * Updated Browns stadium fan tshirt
+  * Updated Browns SchuttF7 helmets
+  * Updated Falcons SchuttF7 helmets
+
 * **v1.3.5 (10/10/2021)**
   * Fixed field overlay shadow
   * Fixed Chargers endzone + goal post
@@ -58,15 +70,6 @@ If you find additional issues or have questions please join our ![Discord](https
   * Fixed Bears stadium endzone
   * Fixed stadium lighting issue
   * Fixed stadium cloud shadow issue
-
-* **v1.2 (8/5/2021)**
-  * Fixed Jets stadium field logo
-  * Fixed Panthers stadium field logo
-  * Added missing Green Bay stadium ads
-  * Added missing franchise team logos
-  * Updated Lions stadium endzone  
-  * Set controller plugin triggers LB/RB and LT/RT to default
-  * Set enable cheats
 
 ---------
 ## MOD Team Credits
