@@ -41,6 +41,7 @@ If you find additional issues or have questions please join our ![Discord](https
   * Updated Cowboys stadium
   * Updated Falcons stadium
   * Updated Lions stadium
+  * Updated Rams stadium
   * Updated Saints stadium
   * Updated Vikings stadium
   * Updated Browns stadium fan tshirt
