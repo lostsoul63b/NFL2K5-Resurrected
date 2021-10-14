@@ -37,6 +37,7 @@ If you find additional issues or have questions please join our ![Discord](https
 * **v1.4 (10/17/2021)**
   * Updated stadium pictures in team options
   * Updated team uniform selection screen
+  * Updated Colts stadium
   * Updated Cowboys stadium
   * Updated Falcons stadium
   * Updated Lions stadium
