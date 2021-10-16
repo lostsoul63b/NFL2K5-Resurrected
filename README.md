@@ -45,6 +45,7 @@ If you find additional issues or have questions please join our ![Discord](https
   * Updated Saints stadium
   * Updated Texans stadium
   * Updated Vikings stadium
+  * Updated Goalposts
   * Updated Browns stadium fan tshirt
   * Updated Browns SchuttF7 helmets
   * Updated Falcons SchuttF7 helmets
