@@ -43,6 +43,7 @@ If you find additional issues or have questions please join our ![Discord](https
   * Updated Lions stadium
   * Updated Rams stadium
   * Updated Saints stadium
+  * Updated Texans stadium
   * Updated Vikings stadium
   * Updated Browns stadium fan tshirt
   * Updated Browns SchuttF7 helmets
