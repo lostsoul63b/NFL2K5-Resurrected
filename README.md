@@ -18,6 +18,9 @@
 * **Uniform, Stadium, Equip textures**: 
   * Current away jersey (BUF), same as 1967 white jersey (ATL) 
   * Current away sleeves share texture across LAC, NYG, IND, HOU
+* **Stadium shadow + field goal net issue**:
+  * Field overlay - ECBB4B55 *(remove if exist)*
+  * Fieldgoal net - 0D968558 *(remove if exist)*
 
 If you find additional issues or have questions please join our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb)
 
