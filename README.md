@@ -39,6 +39,7 @@ If you find additional issues or have questions please join our ![Discord](https
 ---------
 ## Future Releases
 * **v1.5 (TBD)**
+  * Updated Football
   * Updated Stadium fans
   * Updated Jaguars stadium
   * Added Gloves (Jordan VaporJet 5.0, Nike VaporJet 6.0, Nike DTack, Nike SuperBad, Adidas Adizero 8, Adidas Adizero 11, UA Spotlight 2020, and UA F7)
