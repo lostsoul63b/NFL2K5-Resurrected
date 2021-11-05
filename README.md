@@ -18,6 +18,7 @@
 * **Uniform, Stadium, Equip textures**: 
   * Current away jersey (BUF), same as 1967 white jersey (ATL) 
   * Current away sleeves share texture across LAC, NYG, IND, HOU
+  * BUF 69-73, ATL 66-67, TEN 74-75 share the same Jersey texture 1CABA18F
 * **Stadium shadow + field goal net issue**:
   * Field overlay - ECBB4B55 *(remove if exist)*
   * Fieldgoal net - 0D968558 *(remove if exist)*
@@ -37,6 +38,15 @@ If you find additional issues or have questions please join our ![Discord](https
 
 ---------
 ## Future Releases
+* **v1.5 (TBD)**
+  * Updated Stadium fans
+  * Updated Jaguars stadium
+  * Added Gloves (Adizero 8, Jordan VaporJet 6, Nike DTack and UA Spotlight)
+  * Added Nike + Adidas cleats
+  * Added Bears Retro Uniform (58-61) + Selections
+  * Added Packers Retro uniform (03 Alt 1) + Selections
+  * Removed Alt uniforms for BUF 69-73, ATL 66-67, TEN 74-75
+  
 * **v1.4 (10/17/2021)**
   * Updated stadium pictures in team options
   * Updated team uniform selection screen
