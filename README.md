@@ -41,7 +41,7 @@ If you find additional issues or have questions please join our ![Discord](https
 * **v1.5 (TBD)**
   * Updated Stadium fans
   * Updated Jaguars stadium
-  * Added Gloves (Adizero 8, Jordan VaporJet 6, Nike DTack and UA Spotlight)
+  * Added Gloves (Jordan VaporJet 5.0, Nike VaporJet 6.0, Nike DTack, Nike SuperBad, Adidas Adizero 8, Adidas Adizero 11, UA Spotlight 2020, and UA F7)
   * Added Nike + Adidas cleats
   * Added Bears Retro Uniform (58-61) + Selections
   * Added Packers Retro uniform (03 Alt 1) + Selections
