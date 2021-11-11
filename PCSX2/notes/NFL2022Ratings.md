@@ -21,12 +21,12 @@ _____
 _____
 
 ## Roster Downloads
-| Roster Version | File Download |
-| :-------------: | :-------------: |
-| Madden Camp Ratings | [Ros + Fran](https://www.mediafire.com/file/wz45zvbbkpx8q7n/NFL2K22CampRatings.zip/file) |
-| CujoMatty Week 1 Ratings | [Ros + Fran](https://www.mediafire.com/file/lt91808bee6314b/CujoMatty_Week1Ratings.zip/file) |
-| CujoMatty Week 1 Fixed Schedule | [Fran only](https://www.mediafire.com/file/29d0hhj4xfk4ryf/CMFranW1-FixSchedule-11072021.zip/file) |
-| Madden Week 2 Ratings | [Ros + Fran](https://www.mediafire.com/file/fanv1p7qzu1rfxo/NFL2022Week2.zip/file) |
+| Roster Version | File Download | Notes |
+| :------------- | :-------------: | :------------- |
+| Madden Camp Ratings | [Ros + Fran](https://www.mediafire.com/file/wz45zvbbkpx8q7n/NFL2K22CampRatings.zip/file) | Camp Rosters |
+| CujoMatty Week 1 Ratings | [Ros + Fran](https://www.mediafire.com/file/lt91808bee6314b/CujoMatty_Week1Ratings.zip/file) | Includes Hi and Low ratings |
+| CujoMatty Week 1 Fixed Schedule | [Fran only](https://www.mediafire.com/file/29d0hhj4xfk4ryf/CMFranW1-FixSchedule-11072021.zip/file) | Includes djsteveo627 fixed schedule |
+| Madden Week 2 Ratings | [Ros + Fran](https://www.mediafire.com/file/fanv1p7qzu1rfxo/NFL2022Week2.zip/file) | No ratings message |
 
 
 ### Tutorial
