@@ -23,9 +23,11 @@ _____
 ## Roster Downloads
 | Roster Version | File Download |
 | :-------------: | :-------------: |
-| Madden Camp Ratings | [Camp Pkg](https://www.mediafire.com/file/wz45zvbbkpx8q7n/NFL2K22CampRatings.zip/file) |
-| CujoMatty Week 1 Ratings | [Cujo Wk1](https://www.mediafire.com/file/lt91808bee6314b/CujoMatty_Week1Ratings.zip/file) |
-| Madden Week 2 Ratings | [NFL22 Wk2](https://www.mediafire.com/file/fanv1p7qzu1rfxo/NFL2022Week2.zip/file)
+| Madden Camp Ratings | [Ros + Fran](https://www.mediafire.com/file/wz45zvbbkpx8q7n/NFL2K22CampRatings.zip/file) |
+| CujoMatty Week 1 Ratings | [Ros + Fran](https://www.mediafire.com/file/lt91808bee6314b/CujoMatty_Week1Ratings.zip/file) |
+| CujoMatty Week 1 Fixed Schedule | [Fran only](https://www.mediafire.com/file/29d0hhj4xfk4ryf/CMFranW1-FixSchedule-11072021.zip/file) |
+| Madden Week 2 Ratings | [Ros + Fran](https://www.mediafire.com/file/fanv1p7qzu1rfxo/NFL2022Week2.zip/file) |
+
 
 ### Tutorial
 Watch the video for help with this years rosters ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png) [Watch Now!](https://youtu.be/Y-rtsSjPo20)
