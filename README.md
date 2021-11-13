@@ -39,14 +39,19 @@ If you find additional issues or have questions please join our ![Discord](https
 ---------
 ## Future Releases
 * **v1.5 (TBD)**
-  * Updated Football
-  * Updated Stadium fans
-  * Updated Jaguars stadium
-  * Added Gloves (Jordan VaporJet 5.0, Nike VaporJet 6.0, Nike DTack, Nike SuperBad, Adidas Adizero 8, Adidas Adizero 11, UA Spotlight 2020, and UA F7)
+  * Added Gloves (Jordan VaporJet 5, Nike VaporJet 6, Adidas Adizero 8, UA Spotlight 2020, etc.)
   * Added Nike + Adidas cleats
+  * Updated Pigskin
+  * Updated Stadium fans
+  * Updated Jaguars Stadium + Uniforms + Team gloves
+  * Updated Cardinals Uniforms + Team gloves
+  * Updated Falcons Uniforms
+  * Updated Rams Uniforms
   * Added Bears Retro Uniform (58-61) + Selections
   * Added Packers Retro uniform (03 Alt 1) + Selections
   * Removed Alt uniforms for BUF 69-73, ATL 66-67, TEN 74-75
+  * Fixed CM's Wk1 Franchise Schedule (hi/low)
+  * Updated in-game scoreboard for Chargers (LA), Raiders (LVR), Rams (LAR)
   
 * **v1.4 (10/17/2021)**
   * Updated stadium pictures in team options
