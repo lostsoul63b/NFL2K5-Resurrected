@@ -8,16 +8,16 @@ _____
   * Full 53 Player Rosters
   * Updated Player Equipment
   * Updated Player photos
-  * Updated Depth Charts  
-  * Updated Free Agents
-  * Updated Draft Class
+  * Updated Depth Charts
+  * Updated PBP  
+  * Updated City for OAK, STL, SD teams (L.Vegas Raiders, L.Angeles Chargers, L.Angeles Rams)
+  * Updated in-game scoreboard for Chargers (LA), Raiders (LVR), Rams (LAR)
   * Updated Coaches
-  * Updated PBP
-  * Updated City for OAK, STL, SD (L.Vegas Raiders, L.Angeles Chargers, L.Angeles Rams)    
+  * Updated Free Agents
   * Bumped Franchise Salary Cap $198.2M
   * Franchise Includes 2021 Schedule
-  * Includes *.dat, *.max, *.psu formats
-  * Includes PCSX2 pre-loaded memory cards
+  * Includes *.DAT, *.max, *.psv formats
+  * Includes PCSX2 NFL2K22 pre-loaded memory card
 _____
 
 ## Roster Downloads
