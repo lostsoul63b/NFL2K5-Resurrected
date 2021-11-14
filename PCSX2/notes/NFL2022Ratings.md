@@ -16,7 +16,7 @@ _____
   * Updated Free Agents
   * Bumped Franchise Salary Cap $198.2M
   * Franchise Includes 2021 Schedule
-  * Includes *.DAT, *.max, *.psv formats
+  * Includes *.dat, *.max, *.psv formats
   * Includes PCSX2 NFL2K22 pre-loaded memory card
 _____
 
