@@ -27,7 +27,7 @@ _____
 | CujoMatty Week 1 Ratings | [Ros + Fran](https://www.mediafire.com/file/lt91808bee6314b/CujoMatty_Week1Ratings.zip/file) | Includes Hi and Low ratings |
 | CujoMatty Week 1 Fixed Schedule | [Fran only](https://www.mediafire.com/file/29d0hhj4xfk4ryf/CMFranW1-FixSchedule-11072021.zip/file) | Includes djsteveo627 fixed schedule |
 | Madden Week 2 | [Ros + Fran](https://www.mediafire.com/file/fanv1p7qzu1rfxo/NFL2022Week2.zip/file) | No ratings message |
-| Madden Week 9 | [Ros + Fran]() | Added Drew Brees to FreeAgents |
+| Madden Week 9 | [Ros + Fran]() | D. Brees to FA, city hex updates, fixed schedule |
 
 
 ### Tutorial
