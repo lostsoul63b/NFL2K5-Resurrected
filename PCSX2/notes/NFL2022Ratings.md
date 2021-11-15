@@ -3,6 +3,7 @@
 ## NFL 2022 Roster + Franchise (Available Now)
 ![2K22CoverArt2](https://user-images.githubusercontent.com/69597675/127912196-b71bd1a0-fb49-4ee8-b3f3-f77056ed98e9.png)
 _____
+
 ### NFL 2022 Ros + Fran Details
   * Ratings based on Madden 22 Ratings
   * Full 53 Player Rosters
@@ -29,10 +30,11 @@ _____
 | Madden Week 2 | [Ros + Fran](https://www.mediafire.com/file/fanv1p7qzu1rfxo/NFL2022Week2.zip/file) | No ratings message |
 | Madden Week 9 | [Ros + Fran](https://www.mediafire.com/file/cqxxw7mq1ihp5rm/NFL22Week9Ratings.zip/file) | D. Brees to FA, city hex updates, fixed schedule |
 
-
+_____
 ### Tutorial
 Watch the video for help with this years rosters ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png) [Watch Now!](https://youtu.be/Y-rtsSjPo20)
 
+_____
 ### Installation
 **PCSX2 Emulator for PC**
  * After extracting, copy the pre-loaded memcard (..\PCSX2_memcard\<file>) into your PCSX2 (..\NFL2K5Res_1.6\memcards) directory
