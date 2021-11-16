@@ -45,7 +45,7 @@ If you find additional issues or have questions please join our ![Discord](https
   * Updated Stadium fans
   * Updated Jaguars Stadium + Uniforms + Team gloves
   * Updated Cardinals Uniforms + Team gloves
-  * Updated Falcons Uniforms
+  * Updated Falcons Uniforms + Team gloves
   * Updated Rams Uniforms
   * Added Bears Retro Uniform (58-61) + Selections
   * Added Packers Retro uniform (03 Alt 1) + Selections
