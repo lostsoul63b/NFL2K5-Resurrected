@@ -54,6 +54,7 @@ If you find additional issues or have questions please join our ![Discord](https
   * Updated in-game scoreboard for Chargers (LA), Raiders (LVR), Rams (LAR)
   * Updated Ros + Fran Redskins to WFB Team
   * Fixed CM's Wk1 Franchise Schedule (hi/low)
+  * Custom scripts for texture selection
   
 * **v1.4 (10/17/2021)**
   * Updated stadium pictures in team options
