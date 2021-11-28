@@ -46,6 +46,7 @@ If you find additional issues or have questions please join our ![Discord](https
   * Added Nike, UnderArmor, Adidas cleats
   * Updated Pigskin
   * Updated Stadium fans
+  * Updated Sideline uniforms
   * Updated in-game team color icons
   * Updated Jaguars Stadium + Uniforms + Team gloves
   * Updated Cardinals Uniforms + Team gloves
