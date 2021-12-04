@@ -38,22 +38,21 @@ If you find additional issues or have questions please join our ![Discord](https
 
 ---------
 ## Future Releases
-* **v1.5 (TBD)**
-  * Removed Alt uniforms for BUF 69-73, ATL 66-67, TEN 74-75
+* **v1.5 (12/21/21)**
+  * Removed Alt uniforms for BUF 69-73, ATL 66-67, TEN 74-75  
   * Added Bears Retro Uniform (58-61) + Selections
   * Added Packers Retro uniform (03 Alt 1) + Selections
   * Added Jordan, Nike, Adidas, UnderArmor gloves
   * Added Nike, UnderArmor, Adidas cleats
+  * Added custom team gloves for all 32 teams
   * Updated Pigskin
   * Updated Stadium fans
   * Updated Sideline uniforms
   * Updated in-game team color icons
-  * Updated Jaguars Stadium + Uniforms + Team gloves
-  * Updated Cardinals Uniforms + Team gloves
-  * Updated Falcons Uniforms + Team gloves
-  * Updated Rams Uniforms     
-  * Updated Ros + Fran scoreboard for Chargers (LA), Raiders (LVR), Rams (LAR)
-  * Updated Ros + Fran Redskins to WFB Team
+  * Updated Jaguars Stadium + Uniforms
+  * Updated Cardinals Uniforms
+  * Updated Falcons Uniforms
+  * Updated Rams Uniforms
   * Custom scripts for texture selection
   
 * **v1.4 (10/17/2021)**
