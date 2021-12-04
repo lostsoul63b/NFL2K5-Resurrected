@@ -53,6 +53,7 @@ If you find additional issues or have questions please join our ![Discord](https
   * Updated Cardinals Uniforms
   * Updated Falcons Uniforms
   * Updated Rams Uniforms
+  * Updated all coaches
   * Custom scripts for texture selection
   
 * **v1.4 (10/17/2021)**
