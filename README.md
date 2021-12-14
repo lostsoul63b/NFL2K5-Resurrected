@@ -18,7 +18,7 @@
 * **Uniform, Stadium, Equip textures**: 
   * Current away jersey (BUF), same as 1967 white jersey (ATL) 
   * Current away sleeves share texture across LAC, NYG, IND, HOU
-  * BUF 69-73, ATL 66-67, TEN 74-75, , IND 55-56 share the same Jersey texture 1CABA18F
+  * BUF 69-73 & 74-75, ATL 66-67, TEN 74-75, , IND 55-56 share the same Jersey texture 1CABA18F
 * **Stadium shadow + field goal net issue**:
   * Field overlay - ECBB4B55 *(remove if exist)*
   * Fieldgoal net - 0D968558 *(remove if exist)*
