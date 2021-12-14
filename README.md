@@ -15,8 +15,7 @@
 ## Known Mod Issues:
 * **AVX2 Plug-in**:
   * Some CPUs may not support this plugin
-* **Uniform, Stadium, Equip textures**: 
-  * Current away jersey (BUF), same as 1967 white jersey (ATL) 
+* **Uniform, Stadium, Equip textures**:
   * Current away sleeves share texture across LAC, NYG, IND, HOU
   * BUF 69-73 & 74-75, ATL 66-67, TEN 74-75, IND 55-56, GB 03 Alt 1 share the same Jersey texture 1CABA18F
 * **Stadium shadow + field goal net issue**:
