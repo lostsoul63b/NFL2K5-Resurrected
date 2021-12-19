@@ -39,12 +39,13 @@ If you find additional issues or have questions please join our ![Discord](https
 ## Future Releases
 * **v1.5 (12/21/21)**
   * Removed Alt uniforms for BUF 69-73, ATL 66-67, TEN 74-75  
-  * Added Bears Retro Uniform (58-61)
+  * Added Bears Retro uniform (58-61)
   * Added Packers Retro uniform (03 Alt 1)
   * Added Vikings Color Rush uniform (04 Alt 2)
   * Added Jordan, Nike, Adidas, UnderArmor gloves
   * Added Nike, UnderArmor, Adidas cleats
   * Added custom team gloves for all 32 teams
+  * Updated Bengals Alt uniform
   * Updated Pigskin
   * Updated Stadium fans
   * Updated Sideline uniforms
