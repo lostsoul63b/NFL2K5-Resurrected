@@ -6,10 +6,11 @@
 ---------
 ## Download Instructions: ![PS3](https://user-images.githubusercontent.com/69597675/125670845-094394b0-7d78-43d7-9b1f-d2d2fc33549f.png) Playstation Buttons
 * Download the mod package ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
- [**NFL2K5ResPSv1.4Full**](https://www.mediafire.com/file/7jfq9kzo6i72bk7/NFL2K5ResPSv1.4Full.zip/file)
+ [**NFL2K5ResPSv1.5Full**](https://www.mediafire.com/file/ph8tjexih8p6i6z/NFL2K5ResPSv1.5Full.zip/file)
 * Extract and open the included [*2K5_Resurrected.docx*](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/2K5-Resurrected.docx) guide and follow the setup instructions
-![Snag_328421](https://user-images.githubusercontent.com/69597675/135735802-6e8f79b4-198c-43cd-90c1-cd63cc4fa8fd.png)
-* **Checkout** the ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png) [Help Video](https://youtu.be/T-0od4B7HEo?t=1) 
+
+![Snag_3f0c51](https://user-images.githubusercontent.com/69597675/147010499-54894de7-ebf5-4ff7-a1d1-9e5d076c18c7.png)
+* **Checkout** the ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png) [Release Video](https://youtu.be/ICqRDYWGrL8)
 
 ---------
 ## Roster Files:
