@@ -34,13 +34,7 @@ Watch the video for help with this years rosters ![RedArrow2](https://user-image
 
 _____
 ## Installation
-**PCSX2 Emulator for PC**
- * After extracting, copy the pre-loaded memcard (..\PCSX2_memcard\<file>) into your PCSX2 (..\NFL2K5Res_1.6\memcards) directory
- * Insert the memcard into one of the two memory card slots, then load the rosters in-game
- * Copy the player photos from (..\Mod_Files\photos) into your local PCSX2 Mod photo directory (..\NFL2K5Res_1.6\textures\@COM\2k5\photos) replacing all files
- * Replace the #Player photos syntax in the Mod yaml with the data in the included yaml.txt in your game directories yaml file (..\NFL2K5Res_1.6\txtconfig)
-
-**PS2**
+**PS2 / PCSX2**
  * Follow your current transfer method and use the game saves in the PS2 folders (Fran/Ros)
 
 **PS3**
