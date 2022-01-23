@@ -18,10 +18,11 @@
 ### If you have already installed the full version of the mod, you only need to download and apply the latest fix pkg.
 
 ## Available Releases
-| Platform | Version | GSDx Plugin | Release Date  | Release Notes | Download | Tutorial |
-| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.5  | AVX2 v1.2.0  | 12/21/2021  | [v1.5 Update Notes](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/v1.5-release-notes.md)  | [Full build](PCSX2/button-select.md) | [Help Video](https://youtu.be/ICqRDYWGrL8) |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.5  | AVX2 v1.2.0  | 12/21/2021  | [v1.5 Update Notes](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/v1.5-release-notes.md) | [Patch only](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/v1.5/v1.5button-select.md) | [v1.5 Preview](https://youtu.be/V9jbT0otQ7Q) |
+| GME Pkg | NFL2K5R Version | Release Notes | Release Date  | Download | Tutorial |
+| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| JSGME Util | v1.5  | JSGME Base Utility | 1/23/2022 | [JSGME.zip](https://www.mediafire.com/file/2ejkgnj5r5nb4hc/JSGME.zip/file)  | [Setup]() |
+| CoreMODS | v1.5  | JSGME Base Utility | 1/23/2022 | [CoreMODS.zip](https://www.mediafire.com/file/z2dtoi37sidk9ky/CoreMODS.zip/file)  | [Setup]() |
+| SEC_Georgia_Alabama | v1.5  | JSGME Base Utility | 1/23/2022 | [SEC_Georgia_Alabama.zip](https://www.mediafire.com/file/0usaf01n50itpnm/SEC_Georgia_Alabama.zip/file)  | [Setup]() |
 
 ---------
 ## MOD Team Credits
