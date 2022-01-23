@@ -2,8 +2,7 @@
 -----
 ![JSGME2](https://user-images.githubusercontent.com/69597675/150686433-45b93b85-861a-4035-8ea3-6f429a52f736.jpg)
 
-**Also checkout our Rosters**
-
+**Also checkout our Rosters** ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
 [Click here for this years NFL2K22 Roster + Franchise](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/NFL2022Ratings.md)
 
 ---------
