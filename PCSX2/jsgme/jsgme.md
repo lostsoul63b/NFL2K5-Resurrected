@@ -13,16 +13,14 @@
 * ![Twitter](https://user-images.githubusercontent.com/69597675/124641220-71a61780-de5c-11eb-8bd9-0c8c3ad46949.png) [Twitter](https://twitter.com/blostsou)
 
 ---------
-# ESPN NFL 2K5 Resurrected - Installation
+# GME MOD Packages
 
-### If you have already installed the full version of the mod, you only need to download and apply the latest fix pkg.
-
-## Available Releases
-| GME Pkg | NFL2K5R Version | Release Notes | Release Date  | Download | Tutorial |
+## Available MODS
+| GME Pkg | NFL2K5R Version | Release Date | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| JSGME Util | v1.5  | JSGME Base Utility | 1/23/2022 | [JSGME.zip](https://www.mediafire.com/file/2ejkgnj5r5nb4hc/JSGME.zip/file)  | [Setup]() |
-| CoreMODS | v1.5  | JSGME Base Utility | 1/23/2022 | [CoreMODS.zip](https://www.mediafire.com/file/z2dtoi37sidk9ky/CoreMODS.zip/file)  | [Setup]() |
-| SEC_Georgia_Alabama | v1.5  | JSGME Base Utility | 1/23/2022 | [SEC_Georgia_Alabama.zip](https://www.mediafire.com/file/0usaf01n50itpnm/SEC_Georgia_Alabama.zip/file)  | [Setup]() |
+| JSGME Util | v1.5 | 1/23/2022 | JSGME Base Utility | [JSGME.zip](https://www.mediafire.com/file/2ejkgnj5r5nb4hc/JSGME.zip/file) | [How-To]() |
+| CoreMODS | v1.5 | 1/23/2022 | Core Mods | [CoreMODS.zip](https://www.mediafire.com/file/z2dtoi37sidk9ky/CoreMODS.zip/file) |  |
+| SEC_Georgia_Alabama | v1.5 | 1/23/2022 | SEC College Championship | [SEC_Georgia_Alabama.zip](https://www.mediafire.com/file/0usaf01n50itpnm/SEC_Georgia_Alabama.zip/file)  |  |
 
 ---------
 ## MOD Team Credits
