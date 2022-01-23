@@ -13,7 +13,7 @@
 * ![Twitter](https://user-images.githubusercontent.com/69597675/124641220-71a61780-de5c-11eb-8bd9-0c8c3ad46949.png) [Twitter](https://twitter.com/blostsou)
 
 ---------
-# GME MOD Packages
+## GME MOD Packages
 
 ## Available MODS
 | GME Pkg | NFL2K5R Version | Release Date | Release Notes | Download | Tutorial |
@@ -21,6 +21,11 @@
 | JSGME Util | v1.5 | 1/23/2022 | JSGME Base Utility | [JSGME.zip](https://www.mediafire.com/file/2ejkgnj5r5nb4hc/JSGME.zip/file) | [How-To]() |
 | CoreMODS | v1.5 | 1/23/2022 | Core Mods | [CoreMODS.zip](https://www.mediafire.com/file/z2dtoi37sidk9ky/CoreMODS.zip/file) |  |
 | SEC_Georgia_Alabama | v1.5 | 1/23/2022 | SEC College Championship | [SEC_Georgia_Alabama.zip](https://www.mediafire.com/file/0usaf01n50itpnm/SEC_Georgia_Alabama.zip/file)  |  |
+
+---------
+## Additional Information
+![Snag_5a47f0](https://user-images.githubusercontent.com/69597675/150687205-bdacaace-d491-494c-b113-80dc8ff49580.png)
+![Snag_5a53f6](https://user-images.githubusercontent.com/69597675/150687207-8652c20c-404e-4e04-9cb8-2e51bb9cc0c5.png)
 
 ---------
 ## MOD Team Credits
