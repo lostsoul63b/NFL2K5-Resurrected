@@ -27,7 +27,22 @@ _____
 | CujoMatty Week 1 Ratings | [Ros + Fran](https://www.mediafire.com/file/lt91808bee6314b/CujoMatty_Week1Ratings.zip/file) | Includes Hi and Low ratings |
 | CujoMatty Week 1 Fixed Schedule | [Fran only](https://www.mediafire.com/file/29d0hhj4xfk4ryf/CMFranW1-FixSchedule-11072021.zip/file) | Includes djsteveo627 fixed schedule |
 | Madden Week 2 | [Ros + Fran](https://www.mediafire.com/file/fanv1p7qzu1rfxo/NFL2022Week2.zip/file) | No ratings message |
+| Madden Week 3 | [Ros Only](https://www.mediafire.com/file/3fgucln4fbd9jd2/NFL2022Week3.zip/file) | No ratings message |
+| Madden Week 4 | [Ros Only](https://www.mediafire.com/file/9co1ebuvmps23rx/NFL2022Week4.zip/file) | No ratings message |
+| Madden Week 5 | [Ros Only](https://www.mediafire.com/file/k92pqv3vqpmbmbr/NFL2022Week5.zip/file) | No ratings message |
+| Madden Week 6 | [Ros Only](https://www.mediafire.com/file/mu1ydgv8115wb5c/NFL2022Week6.zip/file) | No ratings message |
+| Madden Week 7 | [Ros Only](https://www.mediafire.com/file/ddmjekjqkvufkgq/NFL2022Week7.zip/file) | No ratings message |
+| Madden Week 8 | [Ros Only](https://www.mediafire.com/file/p7aunni6194mohq/NFL2022Week8.zip/file) | No ratings message |
 | Madden Week 9 | [Ros + Fran](https://www.mediafire.com/file/cqxxw7mq1ihp5rm/NFL22Week9Ratings.zip/file) | D. Brees to FA, city hex updates, fixed schedule |
+| Madden Week 10 | [Ros Only]() | No ratings message |
+| Madden Week 11 | [Ros Only]() | No ratings message |
+| Madden Week 12 | [Ros Only]() | No ratings message |
+| Madden Week 13 | [Ros Only]() | No ratings message |
+| Madden Week 14 | [Ros Only]() | No ratings message |
+| Madden Week 15 | [Ros Only]() | No ratings message |
+| Madden Week 16 | [Ros Only]() | No ratings message |
+| Madden Week 17 | [Ros Only]() | No ratings message |
+| Madden Week 18 | [Ros Only]() | No ratings message |
 
 ## Tutorial
 Watch the video for help with this years rosters ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png) [Watch Now!](https://youtu.be/Y-rtsSjPo20)
