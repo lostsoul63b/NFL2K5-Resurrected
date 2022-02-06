@@ -34,15 +34,6 @@ _____
 | Madden Week 7 | [Ros Only](https://www.mediafire.com/file/ddmjekjqkvufkgq/NFL2022Week7.zip/file) | No ratings message |
 | Madden Week 8 | [Ros Only](https://www.mediafire.com/file/p7aunni6194mohq/NFL2022Week8.zip/file) | No ratings message |
 | Madden Week 9 | [Ros + Fran](https://www.mediafire.com/file/cqxxw7mq1ihp5rm/NFL22Week9Ratings.zip/file) | D. Brees to FA, city hex updates, fixed schedule |
-| Madden Week 10 | [Ros Only]() | No ratings message |
-| Madden Week 11 | [Ros Only]() | No ratings message |
-| Madden Week 12 | [Ros Only]() | No ratings message |
-| Madden Week 13 | [Ros Only]() | No ratings message |
-| Madden Week 14 | [Ros Only]() | No ratings message |
-| Madden Week 15 | [Ros Only]() | No ratings message |
-| Madden Week 16 | [Ros Only]() | No ratings message |
-| Madden Week 17 | [Ros Only]() | No ratings message |
-| Madden Week 18 | [Ros Only]() | No ratings message |
 
 ## Tutorial
 Watch the video for help with this years rosters ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png) [Watch Now!](https://youtu.be/Y-rtsSjPo20)
