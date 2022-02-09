@@ -24,6 +24,7 @@
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | v1.5 | 1/23/2022 | SEC College Championship | [SEC_Georgia_Alabama.zip](https://www.mediafire.com/file/0usaf01n50itpnm/SEC_Georgia_Alabama.zip/file)  |  |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | N/A | 1/28/2022 | CujoMatty's Uniform Selector | [NFL_2K5_Uniform_Selector.zip](https://www.mediafire.com/file/gob9s45xwjoki5y/NFL_2K5_Uniform_Selector.zip/file)  | [Tutorial](https://www.youtube.com/watch?v=tiyiHYigPeU)  |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | N/A | 2/5/2022 | CujoMatty's Uniform Selector - Update 1.1 | [NFL_2K5_UniformSelectorUpdate1.1.zip](https://www.mediafire.com/file/4t1cy9jjwotugk3/NFL_2K5_UniformSelectorUpdate1.1.zip/file)  | [Tutorial](https://www.youtube.com/watch?v=SMqCVUwijc8)  |
+| ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | N/A | 2/9/2022 | SuperBowl LVI textures | [SuperBowlLVI.zip](https://www.mediafire.com/file/nwg0ec2ioyiab4x/SuperBowlLVI.zip/file)  |  |
 
 ---------
 ## Additional Information
