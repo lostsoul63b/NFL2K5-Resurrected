@@ -28,8 +28,7 @@
 
 ---------
 ## Additional Information
-![Snag_5a47f0](https://user-images.githubusercontent.com/69597675/150687205-bdacaace-d491-494c-b113-80dc8ff49580.png)
-![Snag_5a53f6](https://user-images.githubusercontent.com/69597675/150687207-8652c20c-404e-4e04-9cb8-2e51bb9cc0c5.png)
+![Snag_3a0a27](https://user-images.githubusercontent.com/69597675/153773566-2fd6c293-4c25-4b92-b953-57a5d643eaed.png)
 
 ---------
 ## MOD Team Credits
