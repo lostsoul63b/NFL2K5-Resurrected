@@ -32,7 +32,7 @@ _____
 | Madden Week 5 | [Ros Only](https://www.mediafire.com/file/k92pqv3vqpmbmbr/NFL2022Week5.zip/file) | No ratings message |
 | Madden Week 6 | [Ros Only](https://www.mediafire.com/file/mu1ydgv8115wb5c/NFL2022Week6.zip/file) | No ratings message |
 | Madden Week 7 | [Ros Only](https://www.mediafire.com/file/ddmjekjqkvufkgq/NFL2022Week7.zip/file) | No ratings message |
-| Madden Week 8 | [Ros Only](https://www.mediafire.com/file/p7aunni6194mohq/NFL2022Week8.zip/file) | No ratings message |
+| Madden Week 8 | [Ros Only](https://www.mediafire.com/file/9g2rrl9qekajvm8/NFL2022Week8-LowHi.zip/file) | Hi + Low Ratings |
 | Madden Week 9 | [Ros + Fran](https://www.mediafire.com/file/cqxxw7mq1ihp5rm/NFL22Week9Ratings.zip/file) | D. Brees to FA, city hex updates, fixed schedule |
 
 ## Tutorial
