@@ -24,6 +24,8 @@
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | v2 | 1/23/2022 | SEC College Championship | [Click-to-Download](https://www.mediafire.com/file/0usaf01n50itpnm/SEC_Georgia_Alabama.zip/file) | 2/13/2022 |  |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | v3 | 1/28/2022 | CujoMatty's Uniform Selector | [Click-to-Download](https://www.mediafire.com/file/gob9s45xwjoki5y/NFL_2K5_Uniform_Selector.zip/file) | 2/15/2022 | [Click-to-Watch](https://www.youtube.com/watch?v=tiyiHYigPeU)  |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | v3 | 2/9/2022 | SuperBowl LVI textures | [Click-to-Download](https://www.mediafire.com/file/nwg0ec2ioyiab4x/SuperBowlLVI.zip/file) | 2/15/2022 |  |
+| ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | v1 | 2/16/2022 | Splash_ARodgersMVP | [Click-to-Download](https://www.mediafire.com/file/exq85n9l10zguoz/Splash_ARodgersMVP.zip/file) |  |  |
+| ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | v1 | 2/16/2022 | Splash_TBrady | [Click-to-Download](https://www.mediafire.com/file/tqqm1q57gq7juf2/Splash_TBrady.zip/file) |  |  |
 
 ---------
 ## Additional Information
