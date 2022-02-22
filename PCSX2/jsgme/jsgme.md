@@ -29,7 +29,7 @@
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | v1 | 2/18/2022 | Splash_TBrady2 | [Click-to-Download](https://www.mediafire.com/file/rwgru7eum5uovfo/Splash_TBrady2.zip/file) |  |  |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | v1 | 2/17/2022 | Splash_JMadden | [Click-to-Download](https://www.mediafire.com/file/0tsmxbhddld3752/Splash_JMadden.zip/file) |  |  |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | v1 | 2/19/2022 | Splash_CKupp | [Click-to-Download](https://www.mediafire.com/file/nj9rj3nqwzykajz/Splash_CKupp.zip/file) |  |  |
-| ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | v1 | 2/19/2022 | Splash_DSamuel | [Click-to-Download](https://www.mediafire.com/file/qgkv91niubgsf26/Splash_DSamuel.zip/file) |  |  |
+| ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | v1 | 2/22/2022 | Splash_DSamuel | [Click-to-Download](https://www.mediafire.com/file/qgkv91niubgsf26/Splash_DSamuel.zip/file) |  |  |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | v1 | 2/19/2022 | Scorebugs | [Click-to-Download](https://www.mediafire.com/file/vafs8zx46ff4j8n/Scorebug.zip/file) |  |  |
 
 ---------
