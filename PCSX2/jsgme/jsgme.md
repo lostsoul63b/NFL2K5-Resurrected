@@ -32,6 +32,7 @@
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | v1 | 2/19/2022 | Splash_CKupp | [Click-to-Download](https://www.mediafire.com/file/nj9rj3nqwzykajz/Splash_CKupp.zip/file) |  |  |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | v1 | 2/22/2022 | Splash_DSamuel | [Click-to-Download](https://www.mediafire.com/file/qgkv91niubgsf26/Splash_DSamuel.zip/file) |  |  |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | v1 | 2/19/2022 | Splash_CKupp | [Click-to-Download](https://www.mediafire.com/file/nj9rj3nqwzykajz/Splash_CKupp.zip/file) |  |  |
+| ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | v1 | 2/23/2022 | Splash_JTaylor | [Click-to-Download](https://www.mediafire.com/file/rej6hf4271d0yon/Splash_JTaylor.zip/file) |  |  |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | v1 | 2/23/2022 | Field_Lightened | [Click-to-Download](https://www.mediafire.com/file/2bi45j61ifa9o7l/Field_Lightened.zip/file) |  |  |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | v1 | 2/23/2022 | Field_Remove_Overlay | [Click-to-Download](https://www.mediafire.com/file/yi7cyiaurc57mnu/Field_Remove_Overlay.zip/file) |  |  |
 
