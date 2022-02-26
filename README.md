@@ -1,6 +1,6 @@
 ## ![NFL2K5-Resurrected-Logo_Horiz5](https://user-images.githubusercontent.com/69597675/125652934-6b21a6c3-e700-4709-8e10-01deb62d37f7.png)
 -----
-![Untitled-1](https://user-images.githubusercontent.com/69597675/155859721-d73038f6-e3c1-4c2f-b21f-8f0a5f510610.png)
+![Untitled-1](https://user-images.githubusercontent.com/69597675/155859774-66e6cbca-d674-41bf-be0e-430e6d35c858.png)
 
 **Enjoy ESPN NFL 2K5 in a completely new way with updated uniforms, stadiums, logos, and more! We hope everyone enjoys playing NFL 2K5 Football again!**
 
