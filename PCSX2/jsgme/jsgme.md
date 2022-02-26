@@ -1,6 +1,6 @@
 ## ![NFL2K5-Resurrected-Logo_Horiz5](https://user-images.githubusercontent.com/69597675/125652934-6b21a6c3-e700-4709-8e10-01deb62d37f7.png)
 -----
-![JSGME2](https://user-images.githubusercontent.com/69597675/150686433-45b93b85-861a-4035-8ea3-6f429a52f736.jpg)
+![GitHub](https://user-images.githubusercontent.com/69597675/155859995-b60e920f-502e-480e-bead-8b52bc08cab4.png)
 
 **Also checkout our Rosters**
 
