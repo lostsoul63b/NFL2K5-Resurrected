@@ -43,6 +43,12 @@ If you find additional issues or have questions please join our ![Discord](https
 
 ---------
 ## Future Releases
+* **v1.6 (TBD)**
+  * Added Matte Helmets (CLE, ATL, LV, SEA, TEN, MIN)
+  * Added Stadiums (SF, CHI, BUF, DEN, CLE, TB, ARZ, LAC, KC, DAL, PHI, ATL, JAX, LAR, NO)
+  * Added Hi-res Tattoo textures
+  * Added Misc textures
+
 * **v1.5 (12/21/21)**
   * Removed Alt uniforms for BUF 69-73, ATL 66-67, TEN 74-75  
   * Added Bears Retro uniform (58-61)
@@ -78,31 +84,6 @@ If you find additional issues or have questions please join our ![Discord](https
   * Updated Browns stadium fan tshirt
   * Updated Browns SchuttF7 helmets
   * Updated Falcons SchuttF7 helmets
-
-* **v1.3.5 (10/10/2021)**
-  * Fixed field overlay shadow
-  * Fixed Chargers endzone + goal post
-  * Added CMs coach textures
-  * Added CMs updated gloves + cleats equipment (Bills, Colts, etc.)
-  * Added FoHs updated Vikings stadium textures
-  * Added FoHs updated Steelers stadium textures
-  * Added FoHs updated Colts stadium textures
-  * Added snow overlay to Dolphins goal post
-  * Added orange pants + fixed helmet stripes for Browns
-* **v1.3 (10/3/2021)**
-  * Added bad weather uniforms for all teams
-  * Added rain stadium textures for all teams
-  * Added snow stadium textures for all teams
-  * Added additional alternate uniforms for specific teams
-  * Updated Colts stadium (RCA Dome)
-  * Added CujoMatty's tattoo mod
-  * Added CujoMatty's Week 1 hi/low ratings
-  * Added real player photos
-  * Uniform cleanup + correction
-  * Fixed Broncos stadium wall
-  * Fixed Bears stadium endzone
-  * Fixed stadium lighting issue
-  * Fixed stadium cloud shadow issue
 
 ---------
 ## MOD Team Credits
