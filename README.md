@@ -44,9 +44,9 @@ If you find additional issues or have questions please join our ![Discord](https
 ---------
 ## Future Releases
 * **v1.6 (TBD)**
-  * Added Matte Helmets (CLE, ATL, LV, SEA, TEN, MIN)
+  * Added Matte Helmets (CLE, ATL, LVR, SEA, TEN, MIN)
   * Added Stadiums (SF, CHI, BUF, DEN, CLE, TB, ARZ, LAC, KC, DAL, PHI, ATL, JAX, LAR, NO)
-  * Added Hi-res Tattoo textures
+  * Added Hi-res Tattoos
   * Added Misc textures
 
 * **v1.5 (12/21/21)**
