@@ -94,6 +94,7 @@ If you find additional issues or have questions please join our ![Discord](https
 * Orleans02
 * BAD_AL
 * CujoMatty
+* UXG
 * Rick
 * Heavvy
 * MahomesMagic15
