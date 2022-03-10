@@ -43,11 +43,15 @@ If you find additional issues or have questions please join our ![Discord](https
 
 ---------
 ## Future Releases
-* **v1.6 (TBD)**
-  * Added Matte Helmets (CLE, ATL, LVR, SEA, TEN, MIN)
-  * Added Stadiums (SF, CHI, BUF, DEN, CLE, TB, ARZ, LAC, KC, DAL, PHI, ATL, JAX, LAR, NO)
-  * Added Hi-res Tattoos
-  * Added Misc textures
+* **v1.6 (3/11/22)**
+  * PS buttons are default as this is the PS2 version of the game
+  * PS / XB controllers are white
+  * Pigskin update
+  * Commanders branding + home/away uniforms
+  * Matte helmets (Browns, Falcons, Raiders, Seahawks, Titans, Vikings)
+  * Stadiums (49ers, Bears, Bills, Broncos, Browns, Buccaneers, Cardinals, Chargers, Chiefs, Cowboys, Dolphins, Eagles, Falcons, Giants, Jaguars, Jets, Rams, Ravens, Commanders, Saints)
+  * Hi-res Tattoos
+  * Misc textures
 
 * **v1.5 (12/21/21)**
   * Removed Alt uniforms for BUF 69-73, ATL 66-67, TEN 74-75  
