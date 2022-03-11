@@ -37,8 +37,8 @@ If you find additional issues or have questions please join our ![Discord](https
 ## Available Releases
 | Platform | Version | GSDx Plugin | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.5  | AVX2 v1.2.0  | 12/21/2021  | [v1.5 Update Notes](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/v1.5-release-notes.md)  | [Full build](PCSX2/button-select.md) | [Tutorial](https://youtu.be/ICqRDYWGrL8) |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.5  | AVX2 v1.2.0  | 12/21/2021  | [v1.5 Update Notes](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/v1.5-release-notes.md) | [Patch only](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/v1.5/v1.5button-select.md) | [Tutorial](https://youtu.be/ICqRDYWGrL8) |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.6  | AVX2 v1.2.0  | 3/11/2022  | [v1.6 Update Notes](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/v1.5-release-notes.md)  | [Full build](PCSX2/button-select.md) | [Tutorial](https://youtu.be/ICqRDYWGrL8) |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.6  | AVX2 v1.2.0  | 3/11/2022  | [v1.6 Update Notes](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/v1.5-release-notes.md) | [Patch only](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/v1.5/v1.5button-select.md) | [Tutorial](https://youtu.be/ICqRDYWGrL8) |
 | ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | *  | *  | 2/26/2022  | Xbox X/S support | * | [Tutorial](https://youtu.be/YGWuMR7S-mQ) |
 
 ---------
