@@ -12,7 +12,7 @@
 ---------
 ## Download Instructions: ![PS3](https://user-images.githubusercontent.com/69597675/125670845-094394b0-7d78-43d7-9b1f-d2d2fc33549f.png) Playstation Buttons
 * Download the mod package ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
- [**NFL2K5ResPSv1.5Full**](https://www.mediafire.com/file/ph8tjexih8p6i6z/NFL2K5ResPSv1.5Full.zip/file)
+ [**NFL2K5ResPSv1.6Full**](https://www.mediafire.com/file/rq0r7ehjqoa1gsa/NFL2K5ResPSv1.6Full.zip/file)
 * Extract and open the included [*2K5_Resurrected.docx*](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/2K5-Resurrected.docx) guide and follow the setup instructions
 
 ![Snag_3f0c51](https://user-images.githubusercontent.com/69597675/147010499-54894de7-ebf5-4ff7-a1d1-9e5d076c18c7.png)
