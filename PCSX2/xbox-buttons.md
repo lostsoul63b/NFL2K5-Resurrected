@@ -16,7 +16,7 @@
 * Extract and open the included [*2K5_Resurrected.docx*](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/2K5-Resurrected.docx) guide and follow the setup instructions
 
 ![Snag_c18cc4](https://user-images.githubusercontent.com/69597675/157984091-3cb85c52-9ee6-4f56-b313-c2858007cb22.png)
-* **Checkout** the ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png) [Release Video](https://youtu.be/ICqRDYWGrL8)
+* **Checkout** the ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png) [Release Video](https://youtu.be/usxnHaUv3Ck)
 
 ---------
 ## Roster Files:
