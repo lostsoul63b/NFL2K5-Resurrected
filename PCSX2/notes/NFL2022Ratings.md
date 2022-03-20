@@ -18,7 +18,8 @@ _____
   * Bumped Franchise Salary Cap $198.2M
   * Franchise Includes 2021 Schedule
   * Includes *.dat, *.max, *.psv formats
-  * Includes PCSX2 NFL2K22 pre-loaded memory card
+  * Includes Vanilla + Hex versions
+  * Includes Low rating files that have been reduced 6%
 _____
 ## Roster Downloads
 | Roster Version | File Download | Notes |
@@ -34,6 +35,7 @@ _____
 | Madden Week 7 | [Ros Only](https://www.mediafire.com/file/ddmjekjqkvufkgq/NFL2022Week7.zip/file) | Hex + Vanilla |
 | Madden Week 8 | [Ros Only](https://www.mediafire.com/file/9g2rrl9qekajvm8/NFL2022Week8-LowHi.zip/file) | Hex + Vanilla + Hi + Low |
 | Madden Week 9 | [Ros + Fran](https://www.mediafire.com/file/cqxxw7mq1ihp5rm/NFL22Week9Ratings.zip/file) | D. Brees to FA, city hex updates, fixed schedule |
+| Madden Week 18 | [Ros + Fran](https://www.mediafire.com/file/d67n7d4cs94vx8f/NFL2022Week18.zip/file) | Hex + Vanilla + Hi + Low |
 
 ## Tutorial
 Watch the video for help with this years rosters ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png) [Watch Now!](https://youtu.be/Y-rtsSjPo20)
