@@ -38,7 +38,7 @@ _____
 | Madden Week 18 | [Ros + Fran](https://www.mediafire.com/file/d67n7d4cs94vx8f/NFL2022Week18.zip/file) | Hex + Vanilla + Hi + Low |
 
 ## Tutorial
-Watch the video for help with this years rosters ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png) [Watch Now!](https://youtu.be/Y-rtsSjPo20)
+Watch the video for help with this years rosters ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png) [Watch Now!](https://youtu.be/dKCJVdCgUk0)
 
 _____
 ## Installation
