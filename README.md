@@ -104,6 +104,7 @@ If you find additional issues or have questions please join our ![Discord](https
 * SteelPro43
 * CCGames
 * MSweeets
+* djsteveo627
 * Rick
 * Heavvy
 * MahomesMagic15
