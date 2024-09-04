@@ -13,9 +13,9 @@
 
 ---------
 ## Follow for important updates and information
-* ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb) - best place for help with various questions and the latest news
-* ![YouTube](https://user-images.githubusercontent.com/69597675/124641345-9b5f3e80-de5c-11eb-80e3-4dc5fabc4137.png) [YouTube](https://www.youtube.com/lostsoul63b)
-* ![Twitter](https://user-images.githubusercontent.com/69597675/124641220-71a61780-de5c-11eb-8bd9-0c8c3ad46949.png) [Twitter](https://twitter.com/blostsou)
+* ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb) - Best place for everything related to this community mod
+* ![YouTube](https://user-images.githubusercontent.com/69597675/124641345-9b5f3e80-de5c-11eb-80e3-4dc5fabc4137.png) [YouTube](https://www.youtube.com/lostsoul63b) - Good place for Vids and Tutorioals
+* ![Twitter](https://github.com/user-attachments/assets/643bcb78-bdbc-4cd9-9142-7c1bd117623e) [Twitter](https://twitter.com/blostsou) - Good place for infrequent updates
 ---------
 ## Known Mod Issues:
 * **AVX2 Plug-in**:
